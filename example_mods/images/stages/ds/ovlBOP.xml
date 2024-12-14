@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="ovlBOP.png" width="5643" height="7019">
+	<SubTexture name="my dad0000" x="3" y="7015" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="overlay bop0000" x="3" y="3" width="2840" height="2366" frameX="-101" frameY="-86" frameWidth="3092" frameHeight="2544"/>
+	<SubTexture name="overlay bop0001" x="3" y="2372" width="2819" height="2344" frameX="-111" frameY="-97" frameWidth="3092" frameHeight="2544"/>
+	<SubTexture name="overlay bop0002" x="2825" y="2372" width="2815" height="2340" frameX="-114" frameY="-99" frameWidth="3092" frameHeight="2544"/>
+	<SubTexture name="overlay bop0003" x="2846" y="3" width="2793" height="2320" frameX="-124" frameY="-109" frameWidth="3092" frameHeight="2544"/>
+	<SubTexture name="overlay bop0004" x="2825" y="4715" width="2775" height="2299" frameX="-134" frameY="-119" frameWidth="3092" frameHeight="2544"/>
+	<SubTexture name="overlay bop0005" x="3" y="4719" width="2767" height="2293" frameX="-137" frameY="-122" frameWidth="3092" frameHeight="2544"/>
+</TextureAtlas>

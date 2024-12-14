@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "name": "Francais",
+        "translatedBy": "Furo & Flez"
+    },
+
+    "saveData":"Donnes de sauvegarde",
+    "resetData":"Supprimer sauvegarde",
+    "back":"Retour",
+    
+    "keys": {
+        "left":"Gauche",
+        "down":"Bas",
+        "up":"Haut",
+        "right":"Droite",
+
+        "minus":"Moins",
+        "minusSign":"-",
+        "plus":"Plus",
+        "plusSign":"+",
+
+        "enter":"Entree",
+        "escape":"Echap",
+        "caps":"Ver. Maj.",
+        "space":"Espace",
+        "backspace":"Rtr Arr."
+    },
+
+    "fps": {
+        "mainText": "FPS: {FPS}",
+        "memoryText": "Mémoire: {MEM} ({MEMPEAK} max)"
+    },
+
+    "freeplay": {
+        "infoText": "Appuyez sur ESPACE pour écouter la chanson / Appuyez sur CTRL pour ouvrir les modificateurs / Appuyez sur {RESET1} pour Réinitialiser votre score",
+        "infoTextReset2": "Appuyez sur ESPACE pour écouter la chanson / Appuyez sur CTRL pour ouvrir les modificateurs / Appuyez sur {RESET1} ou {RESET2} pour Réinitialiser votre score",
+        "bestScore": "Record"
+    },
+    
+    "gameplay" : {
+        "ratings": {
+            "ohNo": "Oh non!",
+            "uhOh": "Euh oh!",
+            "ohBoy": "Oh mec!",
+            "comeOn": "Oh, vas-y!",
+            "mamaMia": "Mama-Mia",
+            "nice": "Oh nice!",
+            "yahoo": "Yahoo",
+            "great": "Bien!",
+            "letsAGo": "Let's a go!",
+            "perfect": "Parfait!!"
+        },
+        "score": "Score",
+        "misses": "Notes ratées",
+        "rating": "Précision",
+        "accuracy": "Précision"
+    }
+}

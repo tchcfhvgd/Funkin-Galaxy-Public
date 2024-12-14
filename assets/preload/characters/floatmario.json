@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mario idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 21,
+			"name": "mario left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 21,
+			"name": "mario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				75
+			],
+			"anim": "singUP",
+			"fps": 21,
+			"name": "mario up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 21,
+			"name": "mario right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario/galactic_mario",
+	"position": [
+		-60,
+		-20
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		13,
+		38
+	],
+	"camera_position": [
+		120,
+		70
+	],
+	"sing_duration": 4.5,
+	"scale": 0.8
+}

@@ -1,0 +1,4 @@
+Awesome = Cool Gradient
+Mid = Damn Gradient Gone
+Dark = Lights Down (Impostor Reference)
+Light = Good Morning Time for School

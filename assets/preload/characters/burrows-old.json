@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "burrows Christmas Idle"
+		},
+		{
+			"offsets": [
+				-47,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "burrows Up Note Dad"
+		},
+		{
+			"offsets": [
+				-31,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "burrows Down Note Dad"
+		},
+		{
+			"offsets": [
+				-30,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "burrows Left Note Dad"
+		},
+		{
+			"offsets": [
+				-1,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "burrows Right Note Dad"
+		},
+		{
+			"offsets": [
+				-47,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "burrows Up Note Mom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Major Burrows/burrows_assets",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "burrows-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		0,
+		24
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 2.5,
+	"scale": 1
+}

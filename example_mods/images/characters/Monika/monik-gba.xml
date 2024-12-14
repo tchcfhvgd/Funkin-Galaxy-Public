@@ -1,0 +1,234 @@
+}<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MonikaPixel.png">
+	<!-- Created with Aseprite(?) -->
+
+	<SubTexture name="Monika IDLE 0000" x="0" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0001" x="0" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0002" x="42" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0003" x="42" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0004" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0005" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0006" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0007" x="126" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0008" x="126" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0009" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0010" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0011" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0012" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Monika IDLE 0013" x="168" y="0" width="41" height="41"/>
+
+	<SubTexture name="Monika HI 0000" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0001" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0002" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0003" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0004" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0005" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0006" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0007" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0008" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0009" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0010" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0011" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0012" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0013" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0014" x="294" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0015" x="294" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0016" x="294" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0017" x="294" y="0" width="41" height="41"/>
+	<SubTexture name="Monika HI 0018" x="294" y="0" width="41" height="41"/>
+
+
+	<SubTexture name="Monika DOWN NOTE 0000" x="0" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0001" x="0" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0002" x="0" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0003" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0004" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0005" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0006" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0007" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0008" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0009" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0010" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0011" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Monika DOWN NOTE 0012" x="42" y="42" width="41" height="41"/>
+	
+	<SubTexture name="Monika LEFT NOTE 0000" x="84" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0001" x="84" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0002" x="84" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0003" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0004" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0005" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0006" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0007" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0008" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0009" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0010" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0011" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Monika LEFT NOTE 0012" x="126" y="42" width="41" height="41"/>
+
+	<SubTexture name="Monika RIGHT NOTE 0000" x="168" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0001" x="168" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0002" x="168" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0003" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0004" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0005" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0006" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0007" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0008" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0009" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0010" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0011" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Monika RIGHT NOTE 0012" x="210" y="42" width="41" height="41"/>
+
+	<SubTexture name="Monika UP NOTE 0000" x="252" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0001" x="252" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0002" x="252" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0003" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0004" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0005" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0006" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0007" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0008" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0009" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0010" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0011" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Monika UP NOTE 0012" x="294" y="42" width="41" height="41"/>
+
+
+	<SubTexture name="Monika alt DOWN NOTE 0000" x="0" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0001" x="0" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0002" x="0" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0003" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0004" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0005" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0006" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0007" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0008" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0009" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0010" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0011" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt DOWN NOTE 0012" x="42" y="84" width="41" height="41"/>
+	
+	<SubTexture name="Monika alt LEFT NOTE 0000" x="84" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0001" x="84" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0002" x="84" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0003" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0004" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0005" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0006" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0007" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0008" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0009" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0010" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0011" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt LEFT NOTE 0012" x="126" y="84" width="41" height="41"/>
+
+	<SubTexture name="Monika alt RIGHT NOTE 0000" x="168" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0001" x="168" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0002" x="168" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0003" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0004" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0005" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0006" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0007" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0008" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0009" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0010" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0011" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt RIGHT NOTE 0012" x="210" y="84" width="41" height="41"/>
+
+	<SubTexture name="Monika alt UP NOTE 0000" x="252" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0001" x="252" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0002" x="252" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0003" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0004" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0005" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0006" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0007" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0008" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0009" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0010" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0011" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Monika alt UP NOTE 0012" x="294" y="84" width="41" height="41"/>
+
+
+
+	<SubTexture name="Monika miss DOWN NOTE 0000" x="0" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0001" x="0" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0002" x="0" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0003" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0004" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0005" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0006" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0007" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0008" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0009" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0010" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0011" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss DOWN NOTE 0012" x="42" y="126" width="41" height="41"/>
+	
+	<SubTexture name="Monika miss LEFT NOTE 0000" x="84" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0001" x="84" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0002" x="84" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0003" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0004" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0005" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0006" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0007" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0008" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0009" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0010" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0011" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss LEFT NOTE 0012" x="126" y="126" width="41" height="41"/>
+
+	<SubTexture name="Monika miss RIGHT NOTE 0000" x="168" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0001" x="168" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0002" x="168" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0003" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0004" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0005" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0006" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0007" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0008" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0009" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0010" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0011" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss RIGHT NOTE 0012" x="210" y="126" width="41" height="41"/>
+
+	<SubTexture name="Monika miss UP NOTE 0000" x="252" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0001" x="252" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0002" x="252" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0003" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0004" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0005" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0006" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0007" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0008" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0009" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0010" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0011" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Monika miss UP NOTE 0012" x="294" y="126" width="41" height="41"/>
+
+
+	<!-- This xml files were writted manually -->
+
+
+	<SubTexture name="Monika glitch 0000" x="0" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0001" x="0" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0002" x="42" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0003" x="42" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0004" x="84" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0005" x="84" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0006" x="84" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0007" x="126" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0008" x="126" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0009" x="168" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0010" x="168" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0011" x="168" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0012" x="168" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0013" x="168" y="168" width="41" height="41"/>
+	<SubTexture name="Monika glitch 0000" x="0" y="0" width="41" height="41"/>
+
+	<!-- glitched Monika animation by TheLuigim64 -->
+
+</TextureAtlas>

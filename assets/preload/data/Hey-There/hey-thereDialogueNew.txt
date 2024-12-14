@@ -1,0 +1,10 @@
+:bg:bill1:
+:music:glitterGlow:
+:music:fadeIn:
+:narrator:default:Ah, what a lovely day it is here in Rolling Green Galaxy!
+:narrator:bf:Beep...
+:narrator:default:Just look at the empty, lifeless blue sky.
+:narrator:bf:Bo bap behp..? (Bro, what are you on about?)
+:narrator:default:There's not much to see here, huh?
+:narrator:default:Just wait there, I'm sure something will happen eventually. 
+:narrator:bf:Ga? (Okay?)

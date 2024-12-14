@@ -1,0 +1,166 @@
+:bg:pro1:
+:music:luma:
+:music:fadeIn:
+:narrator:default:Our story begins with love and a little bit of stardust~
+:narrator:default:It was a beautiful Friday night. 
+:narrator:default:The stars shined the brightest this time of year, twinkling and shimmering elegantly in the crisp and chilly night sky.
+:fade:pro1:
+:bg:pro2:
+:narrator:default:This is Boyfriend, a talented rapper and lyrical genius.
+:narrator:default:That night, he wanted to go on a date with his super hot girlfriend.
+:fade:pro2:
+:bg:pro3:
+:narrator:default:Coincidentally, her name was Girlfriend.
+:narrator:default:He was hoping to finally get some action that night.
+:narrator:default:Obviously, he was confident about that, since he decided to stand on top of a moving limo on the way to her place.
+:narrator:default:But whether he knew it or not...
+:narrator:default:Shit's about to go sideways.
+:fade:pro3:
+:bg:blank:
+:music:null:
+:music:fadeIn:
+:narrator:bf:*sigh*
+:fade:blank:
+:bg:pro4:
+:music:breakfast:
+:music:fadeIn:
+:narrator:default:The two were hanging out as usual.
+:narrator:default:Although on this particular night, nothing was really happening.
+:narrator:default:Usually by now, a random intruder would force them into a rap battle in some unknown dimension.
+:narrator:default:So actually being able to hang out was completely out of the ordinary.
+:sound:whatswrong:
+:narrator:gf:What's wrong babe?
+:stopsound:
+:narrator:bf:Beep bop da bap.
+:narrator:default:This roughly translates to "Well this shit sucks."
+:sound:bored:
+:narrator:gf:Yeah, same here. I'm bored outta my fuckin' miiiiiiind.
+:stopsound:
+:music:null:
+:music:fadeIn:
+:narrator:dad:Bored, you say?
+:music:bouldy:
+:music:fadeIn:
+:fade:pro4:
+:bg:pro5:
+:hidetextbox:true:
+:hidetextbox:false:
+:narrator:dad:Come with me to the lounge, I have something REALLY COOL to show you.
+:fade:pro5:
+:bg:pro6:
+:narrator:default:Boyfriend was no doubt WELL aware of Daddy Dearest's obvious bad intentions.
+:narrator:default:Despite that, he knew literally ANYTHING would be better than just sitting here.
+:narrator:bf:Bap behp. (Fuck it.)
+:narrator:default:So, the two made their way over to the lounge.
+:fade:pro6:
+:bg:pro7:
+:music:null:
+:music:fadeIn:
+:hidetextbox:true:
+:hidetextbox:false:
+:music:study:
+:music:fadeIn:
+:narrator:default:The room was nearly pitch black, with the only source of light coming from a TV in the back.
+:narrator:default:Connected to it was a Nintendo Wii with a copy of Super Mario Galaxy.
+:narrator:bf:Behp bap bep Wii? 
+:narrator:dad:Yup, that's my Wii! You know, with the little stick remote.
+:fade:pro7:
+:bg:pro8:
+:narrator:bf:Skeee ba doh?
+:narrator:dad:Yeah! Go on, try it! Swing your little heart out!
+:narrator:default:Yeah, subtlety was never Daddy's strong suit.
+:music:null:
+:music:fadeIn:
+:narrator:dad:Although...
+:narrator:dad:It'll be hard to play once you're trapped inside it.
+:narrator:bf:Beh?
+:narrator:dad:HAVE FUN, YOU BLUE-HAIRED LITTLE SHIT!
+:narrator:default:Can't say I didn't warn 'ya.
+:fade:pro8:
+:bg:pro9:
+:music:tension:
+:music:fadeIn:
+:narrator:bf:BAH!?
+:narrator:default:Boyfriend watched in horror as his body started to vanish from reality. Daddy Dearest must've used his dark magic to trap him inside the Wii!
+:narrator:default:It was the "Hating Simulator" incident all over again...
+:fade:pro9:
+:bg:pro10:
+:narrator:dad:You better get the damn hint this time!
+:narrator:default:Boyfriend had completely disappeared.
+:narrator:default:Overhearing the commotion, Girlfriend rushed into the room.
+:sound:gasp:
+:narrator:gf:NO!!! BOYFRIEND!!!
+:stopsound:
+:fade:pro10:
+:bg:blank:
+:music:null:
+:music:fadeIn:
+:narrator:default:Girlfriend used her own powers to follow him into the game, making sure nothing bad could happen to him...
+:fade:blank:
+:bg:pro11:
+:narrator:bf:BAP BEEP BAAAAAAAAAAAAAA!!!! 
+:narrator:default:In a flash, Boyfriend suddenly found himself falling right out of the sky!
+:fade:pro11:
+:bg:pro12:
+:music:overture:
+:music:fadeIn:
+:hidetextbox:true:
+:hidetextbox:false:
+:narrator:default:He landed on the ground below with a massive THUD!!!
+:narrator:bf:Bap BOP!
+:narrator:default:Despite the certainly fatal drop he must've had, Boyfriend noticed he was completely unscathed.
+:narrator:default:Just in case you didn't know, there isn't any fall damage in Super Mario Galaxy.
+:narrator:default:Then again, Friday Night Funkin' doesn't have fall damage either...
+:narrator:default:But shut up, you're missing the point.
+:narrator:default:Once he got up, he caught a quick glance of what appeared to be a castle with fireworks going off behind it.
+:fade:pro12:
+:bg:pro13:
+:narrator:default:Boyfriend felt around in his pocket, discovering a letter had been placed inside.
+:narrator:default:And it was from....
+:music:null:
+:music:fadeIn:
+:narrator:bf:Gah beep? (Girlfriend?)
+:fade:pro13:
+:bg:pro14:
+:hidetextbox:true:
+:fade:pro14:
+:bg:pro15:
+:music:festival:
+:music:fadeIn:
+:sound:invite:
+:narrator:default:
+:stopsound:
+:fade:pro15:
+:bg:pro16:
+:hidetextbox:false:
+:narrator:default:With his microphone in hand, he dashed towards the Castle Grounds.
+:narrator:bf:Beep bop skidee bop!
+:narrator:default:He was so happy that Girlfriend was here. Hopefully she would give us a little insight into where we are.
+:fade:pro16:
+:bg:pro17:
+:hidetextbox:true:
+:hidetextbox:false:
+:narrator:default:Boyfriend entered the lively Star Festival and was immediately surrounded by the sights and sounds of the celebration.
+:narrator:default:There were Toads greeting visitors, shops along the streets, and themed decoration, all in preparation for the special comet's arrival. 
+:fade:pro17:
+:bg:pro18:
+:hidetextbox:true:
+:hidetextbox:false:
+:narrator:bf:Boop ba?
+:narrator:default:TRANSLATION: "Have you seen a tall girl with red hair and a smokin' hot bod?"
+:narrator:toad:Uh yeah, I think I saw someone like that over by the lake.
+:fade:pro18:
+:bg:pro19:
+:narrator:default:..and what do you know, there she was!
+:narrator:bf:BEEEEEEEEEEEEEP!!
+:sound:reunite:
+:narrator:gf:Boyfriend! I'm so glad you're okay. I was starting to get worried.
+:stopsound:
+:sound:better:
+:narrator:gf:But man, this place is WAAYY better than any date I've ever been on.
+:stopsound:
+:narrator:default:The two had been reunited at last.
+:music:null:
+:music:fadeIn:
+:narrator:default:But before they could share a loving embrace, a familiar portly plumber approached them.
+:narrator:mario:Hello! Who are you?

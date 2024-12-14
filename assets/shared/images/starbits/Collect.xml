@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Collect.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CollectAnim0000" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0001" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0002" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0003" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0004" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0005" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0006" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0007" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0008" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0009" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0010" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0011" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0012" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0013" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0014" x="77" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0015" x="154" y="0" width="87" height="87" frameX="-19" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0016" x="241" y="0" width="107" height="107" frameX="-9" frameY="-9" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0017" x="348" y="0" width="125" height="125"/>
+	<SubTexture name="CollectAnim0018" x="0" y="125" width="109" height="99" frameX="-11" frameY="-12" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0019" x="0" y="125" width="109" height="99" frameX="-11" frameY="-12" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0020" x="109" y="125" width="114" height="103" frameX="-9" frameY="-10" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0021" x="109" y="125" width="114" height="103" frameX="-9" frameY="-10" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0022" x="223" y="125" width="117" height="104" frameX="-7" frameY="-10" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0023" x="223" y="125" width="117" height="104" frameX="-7" frameY="-10" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0024" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0025" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0026" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0027" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0028" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0029" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0030" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0031" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0032" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0033" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0034" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0035" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0036" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0037" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0038" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0039" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0040" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0041" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0042" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0043" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0044" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0045" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0046" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+	<SubTexture name="CollectAnim0047" x="0" y="0" width="77" height="86" frameX="-23" frameY="-19" frameWidth="125" frameHeight="125"/>
+</TextureAtlas>

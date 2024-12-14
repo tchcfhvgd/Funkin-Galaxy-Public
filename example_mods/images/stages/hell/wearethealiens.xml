@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wearethealiens.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="we are the aliens0000" x="20" y="20" width="35" height="20" frameX="-62" frameY="-68" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0001" x="20" y="20" width="35" height="20" frameX="-62" frameY="-68" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0002" x="70" y="20" width="154" height="90" frameX="-39" frameY="-30" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0003" x="70" y="20" width="154" height="90" frameX="-39" frameY="-30" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0004" x="239" y="20" width="189" height="118" frameX="-12" frameY="-10" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0005" x="239" y="20" width="189" height="118" frameX="-12" frameY="-10" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0006" x="443" y="20" width="186" height="118" frameX="-15" frameY="-10" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0007" x="443" y="20" width="186" height="118" frameX="-15" frameY="-10" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0008" x="239" y="20" width="189" height="118" frameX="-12" frameY="-10" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0009" x="239" y="20" width="189" height="118" frameX="-12" frameY="-10" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0010" x="644" y="20" width="333" height="135" frameX="-9" frameY="0" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0011" x="644" y="20" width="333" height="135" frameX="-9" frameY="0" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0012" x="992" y="20" width="443" height="115" frameX="-7" frameY="-16" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0013" x="992" y="20" width="443" height="115" frameX="-7" frameY="-16" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0014" x="1450" y="20" width="563" height="124" frameX="-9" frameY="-9" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0015" x="1450" y="20" width="563" height="124" frameX="-9" frameY="-9" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0016" x="20" y="170" width="597" height="133" frameX="-10" frameY="-5" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0017" x="20" y="170" width="597" height="133" frameX="-10" frameY="-5" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0018" x="632" y="170" width="642" height="198" frameX="-11" frameY="-9" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0019" x="632" y="170" width="642" height="198" frameX="-11" frameY="-9" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0020" x="1289" y="170" width="654" height="223" frameX="-7" frameY="-8" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0021" x="1289" y="170" width="654" height="223" frameX="-7" frameY="-8" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0022" x="20" y="408" width="666" height="251" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0023" x="20" y="408" width="666" height="251" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0024" x="701" y="408" width="666" height="250" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0025" x="701" y="408" width="666" height="250" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0026" x="20" y="408" width="666" height="251" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0027" x="20" y="408" width="666" height="251" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0028" x="701" y="408" width="666" height="250" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0029" x="701" y="408" width="666" height="250" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0030" x="20" y="408" width="666" height="251" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0031" x="20" y="408" width="666" height="251" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0032" x="701" y="408" width="666" height="250" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+	<SubTexture name="we are the aliens0033" x="701" y="408" width="666" height="250" frameX="0" frameY="-1" frameWidth="666" frameHeight="252"/>
+</TextureAtlas>

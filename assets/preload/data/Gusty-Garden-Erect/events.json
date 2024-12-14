@@ -1,0 +1,488 @@
+{
+	"events": [
+		[
+			3000,
+			[
+				[
+					"Camera Follow Pos",
+					"",
+					""
+				]
+			]
+		],
+		[
+			93000,
+			[
+				[
+					"Alt Idle Animation",
+					"gf",
+					"-alt"
+				]
+			]
+		],
+		[
+			110343.75,
+			[
+				[
+					"coverScreen",
+					"",
+					""
+				],
+				[
+					"Change Note Skin",
+					"PIXELNOTE_assets, both",
+					"false"
+				],
+				[
+					"Change Note Splashes",
+					"PIXELnoteSplashes",
+					""
+				],
+				[
+					"garden-pixel",
+					"pixel",
+					""
+				],
+				[
+					"Change Character",
+					"bf",
+					"bf-pixel"
+				],
+				[
+					"Change Character",
+					"gf",
+					"gf-pixel"
+				],
+				[
+					"Change Character",
+					"dad",
+					"burrows-pixel"
+				]
+			]
+		],
+		[
+			110437.5,
+			[
+				[
+					"Alt Idle Animation",
+					"gf",
+					""
+				]
+			]
+		],
+		[
+			110531.25,
+			[
+				[
+					"Alt Idle Animation",
+					"gf",
+					""
+				]
+			]
+		],
+		[
+			110625,
+			[
+				[
+					"coverScreen",
+					"false",
+					""
+				]
+			]
+		],
+		[
+			157875,
+			[
+				[
+					"Play Animation",
+					"hey",
+					"gf"
+				]
+			]
+		],
+		[
+			157968.75,
+			[
+				[
+					"Play Animation",
+					"hey",
+					"gf"
+				]
+			]
+		],
+		[
+			158062.5,
+			[
+				[
+					"Play Animation",
+					"hey",
+					"gf"
+				]
+			]
+		],
+		[
+			158156.25,
+			[
+				[
+					"Play Animation",
+					"hey",
+					"gf"
+				]
+			]
+		],
+		[
+			158250,
+			[
+				[
+					"Play Animation",
+					"hey",
+					"gf"
+				]
+			]
+		],
+		[
+			158343.75,
+			[
+				[
+					"Play Animation",
+					"hey",
+					"gf"
+				]
+			]
+		],
+		[
+			158437.5,
+			[
+				[
+					"coverScreen",
+					"",
+					""
+				],
+				[
+					"Change Note Skin",
+					"NOTE_assets, both",
+					"false"
+				],
+				[
+					"Change Note Splashes",
+					"noteSplashes",
+					""
+				],
+				[
+					"garden-pixel",
+					"normal",
+					""
+				],
+				[
+					"Change Character",
+					"bf",
+					"bf-gf-speaker"
+				],
+				[
+					"Change Character",
+					"gf",
+					"speakers"
+				],
+				[
+					"Change Character",
+					"dad",
+					"burrows"
+				]
+			]
+		],
+		[
+			158812.5,
+			[
+				[
+					"coverScreen",
+					"false",
+					""
+				]
+			]
+		],
+		[
+			159000,
+			[
+				[
+					"Play Animation",
+					"bfCatch",
+					"bf"
+				]
+			]
+		],
+		[
+			182437.5,
+			[
+				[
+					"coverScreen",
+					"",
+					""
+				],
+				[
+					"garden-pixel",
+					"shadow",
+					""
+				],
+				[
+					"Change Character",
+					"bf",
+					"bf-holding-gf"
+				]
+			]
+		],
+		[
+			182718.75,
+			[
+				[
+					"coverScreen",
+					"false",
+					""
+				]
+			]
+		]
+	],
+	"song": {
+		"events": [
+			[
+				3000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			],
+			[
+				110343.75,
+				[
+					[
+						"coverScreen",
+						"",
+						""
+					],
+					[
+						"Change Note Skin",
+						"PIXELNOTE_assets, both",
+						"false"
+					],
+					[
+						"Change Note Splashes",
+						"PIXELnoteSplashes",
+						""
+					],
+					[
+						"garden-pixel",
+						"pixel",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-pixel"
+					],
+					[
+						"Change Character",
+						"dad",
+						"burrows-pixel"
+					]
+				]
+			],
+			[
+				110437.5,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				110531.25,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				110625,
+				[
+					[
+						"coverScreen",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				157875,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"gf"
+					]
+				]
+			],
+			[
+				157968.75,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"gf"
+					]
+				]
+			],
+			[
+				158062.5,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"gf"
+					]
+				]
+			],
+			[
+				158156.25,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"gf"
+					]
+				]
+			],
+			[
+				158250,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"gf"
+					]
+				]
+			],
+			[
+				158343.75,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"gf"
+					]
+				]
+			],
+			[
+				158437.5,
+				[
+					[
+						"coverScreen",
+						"",
+						""
+					],
+					[
+						"Change Note Skin",
+						"NOTE_assets, both",
+						"false"
+					],
+					[
+						"Change Note Splashes",
+						"noteSplashes",
+						""
+					],
+					[
+						"garden-pixel",
+						"normal",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-gf-speaker"
+					],
+					[
+						"Change Character",
+						"gf",
+						"speakers"
+					],
+					[
+						"Change Character",
+						"dad",
+						"burrows"
+					]
+				]
+			],
+			[
+				158812.5,
+				[
+					[
+						"coverScreen",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"Play Animation",
+						"bfCatch",
+						"bf"
+					]
+				]
+			],
+			[
+				182437.5,
+				[
+					[
+						"coverScreen",
+						"",
+						""
+					],
+					[
+						"garden-pixel",
+						"shadow",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-holding-gf"
+					]
+				]
+			],
+			[
+				182718.75,
+				[
+					[
+						"coverScreen",
+						"false",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pcpBushes.png">
+<SubTexture name="pcpBushes idle0000" x="0" y="525" width="1658" height="515" frameX="-219" frameY="-496" frameWidth="1982" frameHeight="1142" />
+<SubTexture name="pcpBushes idle0001" x="0" y="0" width="1667" height="525" frameX="-210" frameY="-489" frameWidth="1982" frameHeight="1142" />
+<SubTexture name="pcpBushes idle0002" x="0" y="525" width="1658" height="515" frameX="-219" frameY="-496" frameWidth="1982" frameHeight="1142" />
+<SubTexture name="pcpBushes idle0003" x="0" y="1040" width="1661" height="511" frameX="-214" frameY="-504" frameWidth="1982" frameHeight="1142" />
+</TextureAtlas>

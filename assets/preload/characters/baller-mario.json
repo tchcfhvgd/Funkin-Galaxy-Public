@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mario Sports Idle0"
+		},
+		{
+			"offsets": [
+				120,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario Sports Left0"
+		},
+		{
+			"offsets": [
+				-15,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario Sports Down0"
+		},
+		{
+			"offsets": [
+				19,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario Sports Up0"
+		},
+		{
+			"offsets": [
+				-69,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario Sports Right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 48,
+			"anim": "ball",
+			"loop": false,
+			"name": "Mario Sports Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario/BMario",
+	"position": [
+		-150,
+		180
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		24,
+		24
+	],
+	"camera_position": [
+		-50,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.975
+}

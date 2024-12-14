@@ -1,0 +1,27 @@
+{
+	"storyName": "A Journey of Cosmic Proportions",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "demo1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		["Star Festival", "mario", [26, 133, 173]],
+		["Toad Brigade", "captain", [240, 255, 180]],
+		["Hey There", "fill", [146, 255, 113]],
+		["Gusty Garden", "burrows", [0, 255, 120]]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1",
+	"hiddenUntilUnlocked": false
+}

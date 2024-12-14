@@ -1,0 +1,12 @@
+:bg:gusty1:
+:music:glitterGlow:
+:music:fadeIn:
+:narrator:default:For this next song, we're taken to the windiest of botanical planetoids, Gusty Garden Galaxy!
+:narrator:default:Here, we're challenged by the main mole himself, Major Burrows.
+:narrator:bf:Bop gah dee...
+:narrator:default:Yeah, looks like you're gonna have to fight that guy.
+:narrator:default:But he's sure to be no match against the power of song!
+:music:null:
+:music:fadeIn:
+:narrator:default:By the way...
+:narrator:default:Prepare for the incoming nostalgia blast.

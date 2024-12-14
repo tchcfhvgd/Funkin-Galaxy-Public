@@ -1,0 +1,2 @@
+On = Turn On
+Off = Turn Off

@@ -1,0 +1,33 @@
+{
+	"storyName": "Super Funkin' Galaxy Demo",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "demo1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		["Love Driven", "gf", [6, 133, 255]],
+		["Star Festival", "mario", [26, 133, 173]],
+		["Toad Brigade", "captain", [240, 255, 180]],
+		["Hey There", "fill", [146, 255, 113]],
+		["Gusty Garden", "burrows", [0, 255, 120]],
+		["Funky Factory", "luigi", [0, 255, 120]],
+		["Cosmic Battle", "cosmicbf", [0, 0, 195]],
+		["Hell Prominence", "cinder", [255, 0, 13]],
+		["Purple Comet", "burrows-angry", [166, 0, 255]],
+		["Luminous Swing", "jackogoomba", [0, 0, 140]]
+	],
+	"hideStoryMode": true,
+	"weekName": "Story Mode Songs",
+	"hiddenUntilUnlocked": false
+}

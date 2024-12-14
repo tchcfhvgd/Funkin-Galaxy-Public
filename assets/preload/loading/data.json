@@ -1,0 +1,20 @@
+{
+    "defaultScreen": "loading",
+    "songData" : [
+        { "songs": ["star festival"], "image": "festival" },
+        { "songs": ["toad brigade"], "image": "captain" },
+        { "songs": ["toad brigade erect"], "image": "captainRemix" },
+        { "songs": ["cosmic battle"], "image": "cosmic" },
+        { "songs": ["cosmic battle erect"], "image": "cosmicRemix" },
+        { "songs": ["hell prominence"], "image": "prominence" },
+        { "songs": ["panic club"], "image": "panic" },
+        { "songs": ["revolution"], "image": "revolution" },
+        { "songs": ["sports mix"], "image": "ballin" },
+        { "songs": ["wii modder"], "image": "modding" },
+        { "songs": ["sexy luigi", "sexy luigi erect"], "image": "sexy" },
+        { "songs": ["deluded sensation"], "image": "dslite" },
+        { "songs": ["starship mario"], "image": "awesome" },
+        { "songs": ["hell valley", "hell valley erect"], "image": "skytrees" },
+        { "songs": ["the wish"], "image": "peace" }
+    ]
+}

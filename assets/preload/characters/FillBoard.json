@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Board Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Board Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Board Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Board Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-22
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Board Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-22
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Board Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bill Board/FillBoard",
+	"position": [
+		-30,
+		270
+	],
+	"healthicon": "fill",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		38,
+		14
+	],
+	"camera_position": [
+		-70,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

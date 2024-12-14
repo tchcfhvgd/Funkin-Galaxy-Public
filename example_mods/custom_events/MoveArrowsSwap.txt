@@ -1,0 +1,4 @@
+Like that psycho mod i think
+
+value1 = 1 for swap
+value2 = 1 for unswap

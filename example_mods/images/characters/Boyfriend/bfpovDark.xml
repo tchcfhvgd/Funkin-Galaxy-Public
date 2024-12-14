@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfpovDark.png">
+<SubTexture name="bfpov idle0000" x="0" y="1156" width="281" height="330" frameX="-546" frameY="-295" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov idle0001" x="594" y="397" width="284" height="331" frameX="-548" frameY="-294" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov idle0002" x="1123" y="783" width="287" height="331" frameX="-550" frameY="-294" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov idle0003" x="281" y="1156" width="284" height="330" frameX="-550" frameY="-285" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov idle0004" x="565" y="1156" width="281" height="330" frameX="-552" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov idle0005" x="565" y="1156" width="281" height="330" frameX="-552" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov idle0006" x="565" y="1156" width="281" height="330" frameX="-552" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov idle0007" x="565" y="1156" width="281" height="330" frameX="-552" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov left0000" x="0" y="397" width="594" height="386" frameX="-391" frameY="-243" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov left0001" x="547" y="783" width="576" height="365" frameX="-408" frameY="-255" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov left0002" x="547" y="783" width="576" height="365" frameX="-408" frameY="-255" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov right0000" x="1669" y="0" width="488" height="318" frameX="-505" frameY="-303" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov right0001" x="846" y="1156" width="504" height="328" frameX="-491" frameY="-297" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov right0002" x="846" y="1156" width="504" height="328" frameX="-491" frameY="-297" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov down0000" x="530" y="0" width="566" height="391" frameX="-482" frameY="-278" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov down0001" x="1096" y="0" width="573" height="383" frameX="-486" frameY="-273" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov down0002" x="1096" y="383" width="573" height="382" frameX="-486" frameY="-274" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov up0000" x="0" y="0" width="530" height="397" frameX="-511" frameY="-205" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov up0001" x="0" y="783" width="547" height="373" frameX="-509" frameY="-216" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov up0002" x="0" y="783" width="547" height="373" frameX="-509" frameY="-216" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfpov up0003" x="0" y="783" width="547" height="373" frameX="-509" frameY="-216" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

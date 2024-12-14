@@ -1,0 +1,22 @@
+:bg:purple1:
+:music:glitterGlow:
+:music:fadeIn:
+:narrator:default:Uh oh, it looks like Major Burrows has returned to the Gusty Garden Galaxy.
+:narrator:default:Due to the reality-warping effects of the Prankster Comet, a new challenge has approached, with a new shade of coins to boot!
+:narrator:default:Do you have the balls to take on such a challenge?
+:narrator:default:Let’s hope you do, because the song starts soon.
+:fade:purple1:
+:bg:blank:
+:music:null:
+:music:fadeIn:
+:narrator:default:But just before it starts...
+:bg:purple2:
+:hidetextbox:true:
+:hidetextbox:false:
+:music:demoEnding:
+:music:fadeIn:
+:narrator:default:Thank you so much for playing the Story Mode of the Super Funkin' Galaxy Demo!
+:narrator:default:We really hope you enjoyed it, because everyone on the team put a lot of work into making this a reality!
+:narrator:default:After this, you can check out Freeplay mode, which has even more great songs for you to play.
+:narrator:default:Until then, thanks for playing!
+:narrator:default:(PS: There's no letter on your Wii Message Board, sorry about that.)

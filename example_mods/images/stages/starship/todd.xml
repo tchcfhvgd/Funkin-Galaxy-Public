@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="todd.png" width="404" height="2606">
+	<SubTexture name="toad0000" x="3" y="1970" width="397" height="633" frameX="-6" frameY="-27" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0001" x="3" y="1970" width="397" height="633" frameX="-6" frameY="-27" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0002" x="3" y="1323" width="397" height="644" frameX="-2" frameY="-11" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0003" x="3" y="1323" width="397" height="644" frameX="-2" frameY="-11" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0004" x="3" y="665" width="397" height="655" frameX="-12" frameY="-4" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0005" x="3" y="665" width="397" height="655" frameX="-12" frameY="-4" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0006" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0007" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0008" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0009" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0010" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0011" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0012" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+	<SubTexture name="toad0013" x="3" y="3" width="398" height="659" frameX="-19" frameY="-2" frameWidth="423" frameHeight="668"/>
+</TextureAtlas>

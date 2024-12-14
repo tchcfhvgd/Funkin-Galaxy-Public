@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="revMarios-pixel.png">
+<!-- Created with Aseprite(?) not official text -->
+	<SubTexture name="marioBop0000" x="0" y="0" width="277" height="107"/>
+	<SubTexture name="marioBop0001" x="0" y="0" width="277" height="107"/>
+	<SubTexture name="marioBop0002" x="278" y="0" width="277" height="107"/>
+	<SubTexture name="marioBop0003" x="278" y="0" width="277" height="107"/>
+	<SubTexture name="marioBop0004" x="556" y="0" width="277" height="107"/>
+	<SubTexture name="marioBop0005" x="556" y="0" width="277" height="107"/>
+	<SubTexture name="marioBop0006" x="0" y="108" width="277" height="107"/>
+	<SubTexture name="marioBop0007" x="0" y="108" width="277" height="107"/>
+	<SubTexture name="marioBop0008" x="0" y="108" width="277" height="107"/>
+	<SubTexture name="marioBop0009" x="0" y="108" width="277" height="107"/>
+	<SubTexture name="marioBop0010" x="0" y="108" width="277" height="107"/>
+	<SubTexture name="marioBop0011" x="0" y="108" width="277" height="107"/>
+	<SubTexture name="marioBop0012" x="0" y="108" width="277" height="107"/>
+	<SubTexture name="marioBop0013" x="0" y="108" width="277" height="107"/>
+</TextureAtlas>

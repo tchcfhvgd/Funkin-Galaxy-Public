@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pcpWaterfall.png">
+<SubTexture name="pcpWaterfall idle0000" x="0" y="0" width="609" height="1280" frameX="-56" frameY="0" frameWidth="720" frameHeight="1280" />
+<SubTexture name="pcpWaterfall idle0001" x="609" y="0" width="609" height="1280" frameX="-56" frameY="0" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>

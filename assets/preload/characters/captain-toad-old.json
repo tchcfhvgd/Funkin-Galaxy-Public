@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-386,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				-335,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-392,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-402,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-387,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Captain Toad/CaptainToadOld",
+	"position": [
+		-455,
+		145
+	],
+	"healthicon": "captain-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		15
+	],
+	"camera_position": [
+		150,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

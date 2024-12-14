@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "luigi idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "luigi left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "luigi down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "luigi up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "luigi right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Luigi/loogieRoof",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		172,
+		54
+	],
+	"camera_position": [
+		-245,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

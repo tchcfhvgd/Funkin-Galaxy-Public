@@ -1,0 +1,27 @@
+{
+	"storyName": "Welcome to The Galaxies!",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "demo2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		["Funky Factory", "luigi", [0, 255, 120]],
+		["Cosmic Battle", "cosmicbf", [0, 0, 195]],
+		["Hell Prominence", "cinder", [255, 0, 13]],
+		["Purple Comet", "burrows", [166, 0, 255]]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 2"
+}

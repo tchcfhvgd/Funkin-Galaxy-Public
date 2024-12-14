@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="FloatyFluff.png" width="435" height="581">
+	<SubTexture name="Spinning0000" x="134" y="294" width="159" height="281" frameX="-204" frameY="-88" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Spinning0001" x="3" y="3" width="152" height="288" frameX="-213" frameY="-72" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Spinning0002" x="3" y="294" width="128" height="284" frameX="-222" frameY="-82" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Spinning0003" x="158" y="3" width="138" height="285" frameX="-217" frameY="-85" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Spinning0004" x="299" y="3" width="133" height="275" frameX="-213" frameY="-91" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Spinning0005" x="299" y="281" width="132" height="273" frameX="-212" frameY="-87" frameWidth="512" frameHeight="512"/>
+</TextureAtlas>

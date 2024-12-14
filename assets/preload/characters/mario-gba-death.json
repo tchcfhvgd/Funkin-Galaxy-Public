@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "marioDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "mariodeathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "mariodeathConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Deaths/mariodeath",
+	"position": [
+		215,
+		530
+	],
+	"healthicon": "gbamario",
+	"flip_x": true,
+	"healthbar_colors": [
+		36,
+		24,
+		140
+	],
+	"camera_position": [
+		260,
+		-370
+	],
+	"sing_duration": 6.1,
+	"scale": 10
+}

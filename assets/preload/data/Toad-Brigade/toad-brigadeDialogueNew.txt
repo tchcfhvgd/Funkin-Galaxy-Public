@@ -1,0 +1,30 @@
+:bg:toad1:
+:music:glitterGlow:
+:music:fadeIn:
+:narrator:default:Following Boyfriend and Mario's duet, they've been launched into a musical adventure of COSMIC PROPORTIONS! 
+:music:null:
+:music:fadeIn:
+:narrator:default:Unfortunately, this is simply a demo, so you won't be able to hear the whole story until the full release.
+:music:gameOver:
+:music:fadeIn:
+:fade:hey1:
+:bg:toad2:
+:hidetextbox:true:
+:hidetextbox:false:
+:narrator:default:But hey, no worries. There's still more songs. The next few are only a taste of what Super Funkin' Galaxy will have in store!
+:narrator:default:In addition, the dialogue from here on out is temporary and will be changed for the final build. We hope you enjoy! 
+:narrator:bf:Beep ba doh beep dee dai!
+:bg:blank:
+:music:null:
+:music:fadeIn:
+:narrator:default:Jesus Christ, are you trying to get us cancelled?
+:fade:blank:
+:bg:toad3:
+:music:glitterGlow:
+:music:fadeIn:
+:narrator:default:Over in Honeyhive Galaxy is Captain Toad, who seems to have gotten his crew stranded on top of this tree.
+:narrator:default:Somehow, he got a hold of a Power Star.
+:narrator:default:He's willing to hand it over, but only if you can beat him in another rap battle.
+:narrator:bf:Bahp gah?
+:narrator:default:Well nothing's free, Boyfriend.
+:narrator:default:Anyways, good luck!

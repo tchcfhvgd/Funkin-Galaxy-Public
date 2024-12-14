@@ -1,0 +1,18 @@
+<libs>
+    <lib name="lime"/>
+    <lib name="openfl" version="9.3.0"/>
+
+    <!-- FLIXEL THINGS -->
+    <lib name="flixel" version="4.11.0"/>
+    <lib name="flixel-addons" version="2.11.0"/>
+    <lib name="flixel-ui" version="2.4.0"/>
+    
+    <lib name="hxvlc" version="1.9.3"/>
+
+    <lib name="hscript"/>
+    <lib name="hxdiscord_rpc" />
+
+    <git name="linc_luajit" url="https://github.com/nebulazorua/linc_luajit" />
+    <git name="hxcpp" url="https://github.com/FuroYT/hxcpp.git" />
+	<cmd inLib="hxcpp" dir="tools/hxcpp" cmd="haxe compile.hxml" />
+</libs>

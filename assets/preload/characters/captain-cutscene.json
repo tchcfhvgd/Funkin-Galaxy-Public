@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-390,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Captain Toad/CaptainToadAlt",
+	"position": [
+		-520,
+		-20
+	],
+	"healthicon": "captain",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		1,
+		65
+	],
+	"camera_position": [
+		240,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

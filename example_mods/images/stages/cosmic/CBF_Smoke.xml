@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="CBF_Smoke.png" width="783" height="651">
+	<SubTexture name="CBF Smoke Idle0000" x="3" y="425" width="306" height="223" frameX="-30" frameY="-28" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0001" x="3" y="425" width="306" height="223" frameX="-30" frameY="-28" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0002" x="3" y="3" width="325" height="214" frameX="-21" frameY="-38" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0003" x="3" y="3" width="325" height="214" frameX="-21" frameY="-38" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0004" x="3" y="220" width="320" height="202" frameX="-22" frameY="-52" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0005" x="3" y="220" width="320" height="202" frameX="-22" frameY="-52" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0006" x="326" y="317" width="213" height="306" rotated="true" frameX="-45" frameY="-40" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0007" x="326" y="317" width="213" height="306" rotated="true" frameX="-45" frameY="-40" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0008" x="331" y="3" width="223" height="311" rotated="true" frameX="-39" frameY="-32" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0009" x="331" y="3" width="223" height="311" rotated="true" frameX="-39" frameY="-32" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0010" x="557" y="3" width="223" height="306" rotated="true" frameX="-37" frameY="-25" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0011" x="557" y="3" width="223" height="306" rotated="true" frameX="-37" frameY="-25" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0012" x="542" y="317" width="232" height="302" rotated="true" frameX="-37" frameY="-20" frameWidth="377" frameHeight="279"/>
+	<SubTexture name="CBF Smoke Idle0013" x="542" y="317" width="232" height="302" rotated="true" frameX="-37" frameY="-20" frameWidth="377" frameHeight="279"/>
+</TextureAtlas>

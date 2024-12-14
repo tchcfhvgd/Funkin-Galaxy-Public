@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marker.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="markerconfirm0000" x="224" y="331" width="179" height="44" frameX="-21" frameY="-17" frameWidth="200" frameHeight="79"/>
+	<SubTexture name="markerconfirm0001" x="224" y="385" width="179" height="44" frameX="-21" frameY="-17" frameWidth="200" frameHeight="79"/>
+	<SubTexture name="markerconfirm0002" x="166" y="10" width="152" height="75" frameX="-4" frameY="-3" frameWidth="200" frameHeight="79"/>
+	<SubTexture name="markerconfirm0003" x="328" y="10" width="152" height="75" frameX="-4" frameY="-3" frameWidth="200" frameHeight="79"/>
+	<SubTexture name="markerconfirm0004" x="166" y="95" width="137" height="79" frameX="0" frameY="0" frameWidth="200" frameHeight="79"/>
+	<SubTexture name="markerconfirm0005" x="313" y="95" width="137" height="79" frameX="0" frameY="0" frameWidth="200" frameHeight="79"/>
+	<SubTexture name="markerconfirm0006" x="166" y="95" width="137" height="79" frameX="0" frameY="0" frameWidth="200" frameHeight="79"/>
+	<SubTexture name="markerenter0000" x="224" y="275" width="187" height="46" frameX="0" frameY="-39" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0001" x="10" y="403" width="188" height="36" frameX="-280" frameY="-44" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0002" x="135" y="267" width="79" height="126" frameX="-610" frameY="0" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0003" x="135" y="267" width="79" height="126" frameX="-610" frameY="0" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0004" x="10" y="10" width="146" height="91" frameX="-543" frameY="-17" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0005" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0006" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0007" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0008" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0009" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0010" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0011" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0012" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markerenter0013" x="10" y="184" width="148" height="73" frameX="-538" frameY="-26" frameWidth="689" frameHeight="126"/>
+	<SubTexture name="markeridle0000" x="168" y="184" width="148" height="73" frameX="0" frameY="-9" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0001" x="168" y="184" width="148" height="73" frameX="0" frameY="-9" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0002" x="168" y="184" width="148" height="73" frameX="0" frameY="-9" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0003" x="10" y="267" width="115" height="91" frameX="-59" frameY="0" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0004" x="10" y="267" width="115" height="91" frameX="-59" frameY="0" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0005" x="10" y="267" width="115" height="91" frameX="-59" frameY="0" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0006" x="326" y="184" width="132" height="81" frameX="-42" frameY="-5" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0007" x="326" y="184" width="132" height="81" frameX="-42" frameY="-5" frameWidth="174" frameHeight="91"/>
+	<SubTexture name="markeridle0008" x="326" y="184" width="132" height="81" frameX="-42" frameY="-5" frameWidth="174" frameHeight="91"/>
+</TextureAtlas>

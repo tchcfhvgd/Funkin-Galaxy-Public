@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RevBF-pixel.png">
+<SubTexture name="bf idle0000" x="0" y="235" width="61" height="70" frameX="-23" frameY="-26" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf idle0001" x="295" y="145" width="59" height="71" frameX="-24" frameY="-25" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf idle0002" x="295" y="73" width="58" height="72" frameX="-25" frameY="-24" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf idle0003" x="0" y="161" width="58" height="74" frameX="-25" frameY="-22" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf idle0004" x="54" y="82" width="59" height="76" frameX="-24" frameY="-20" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf left0000" x="169" y="0" width="63" height="75" frameX="-19" frameY="-21" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf left0001" x="169" y="75" width="62" height="75" frameX="-20" frameY="-21" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf right0000" x="122" y="161" width="65" height="73" frameX="-28" frameY="-23" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf right0001" x="58" y="161" width="64" height="74" frameX="-28" frameY="-22" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf down0000" x="121" y="235" width="64" height="69" frameX="-22" frameY="-27" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf down0001" x="61" y="235" width="60" height="70" frameX="-24" frameY="-26" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf up0000" x="0" y="0" width="57" height="82" frameX="-28" frameY="-14" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf up0001" x="110" y="0" width="59" height="80" frameX="-27" frameY="-16" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS left0000" x="232" y="0" width="63" height="75" frameX="-19" frameY="-21" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS left0001" x="232" y="75" width="63" height="75" frameX="-19" frameY="-21" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS right0000" x="187" y="161" width="66" height="73" frameX="-28" frameY="-23" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS right0001" x="295" y="0" width="65" height="73" frameX="-28" frameY="-23" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS down0000" x="249" y="235" width="65" height="67" frameX="-21" frameY="-29" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS down0001" x="185" y="235" width="64" height="69" frameX="-22" frameY="-27" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS up0000" x="57" y="0" width="53" height="81" frameX="-28" frameY="-15" frameWidth="96" frameHeight="96" />
+<SubTexture name="bf MISS up0001" x="0" y="82" width="54" height="79" frameX="-27" frameY="-17" frameWidth="96" frameHeight="96" />
+</TextureAtlas>

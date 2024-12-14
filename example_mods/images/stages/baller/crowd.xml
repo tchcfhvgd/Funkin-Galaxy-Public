@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CrowdBG Idle0000" x="2" y="2" width="1512" height="400" frameX="0" frameY="-19" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0001" x="2" y="2" width="1512" height="400" frameX="0" frameY="-19" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0002" x="2" y="404" width="1505" height="408" frameX="-3" frameY="-12" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0003" x="2" y="404" width="1505" height="408" frameX="-3" frameY="-12" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0004" x="2" y="814" width="1504" height="418" frameX="-4" frameY="-3" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0005" x="2" y="814" width="1504" height="418" frameX="-4" frameY="-3" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0006" x="2" y="1234" width="1501" height="422" frameX="-5" frameY="0" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0007" x="2" y="1234" width="1501" height="422" frameX="-5" frameY="0" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0008" x="2" y="1234" width="1501" height="422" frameX="-5" frameY="0" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0009" x="2" y="1234" width="1501" height="422" frameX="-5" frameY="0" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0010" x="2" y="1234" width="1501" height="422" frameX="-5" frameY="0" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0011" x="2" y="1234" width="1501" height="422" frameX="-5" frameY="0" frameWidth="1512" frameHeight="422"/>
+	<SubTexture name="CrowdBG Idle0012" x="2" y="1234" width="1501" height="422" frameX="-5" frameY="0" frameWidth="1512" frameHeight="422"/>
+</TextureAtlas>

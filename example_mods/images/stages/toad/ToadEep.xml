@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="ToadEep.png" width="661" height="963">
+	<SubTexture name="eepy0000" x="335" y="488" width="323" height="467" frameX="-0" frameY="-16" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0001" x="335" y="488" width="323" height="467" frameX="-0" frameY="-16" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0002" x="3" y="489" width="319" height="471" frameX="-5" frameY="-12" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0003" x="3" y="489" width="319" height="471" frameX="-5" frameY="-12" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0004" x="335" y="3" width="323" height="482" frameX="-9" frameY="-1" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0005" x="335" y="3" width="323" height="482" frameX="-9" frameY="-1" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0006" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0007" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0008" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0009" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0010" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0011" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0012" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+	<SubTexture name="eepy0013" x="3" y="3" width="329" height="483" frameX="-9" frameY="-0" frameWidth="338" frameHeight="483"/>
+</TextureAtlas>

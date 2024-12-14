@@ -1,0 +1,3 @@
+Flashes Camera to a Dark Black Colour
+
+Value 1: speed

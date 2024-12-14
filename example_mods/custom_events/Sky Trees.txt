@@ -1,0 +1,4 @@
+Dark = Spooky
+Default = Normal
+Distant = Main Perspective
+Cutscene = Play Cutscene

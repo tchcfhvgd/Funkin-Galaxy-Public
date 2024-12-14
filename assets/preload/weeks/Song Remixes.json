@@ -1,0 +1,28 @@
+{
+	"storyName": "Dope Ass Remixes!",
+	"difficulties": "Erect",
+	"hideFreeplay": false,
+	"weekBackground": "burrows",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		["Prankster Club", "monika-justart", [255, 95, 180]],
+		["Toad Brigade Erect", "captain", [240, 255, 180]],
+		["Gusty Garden Erect", "burrows-angry", [0, 255, 120]],
+		["Cosmic Battle Erect", "cosmicbf", [115, 0, 255]],
+		["Hell Valley Erect", "skytree", [0, 0, 140]]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Song Remixes"
+}

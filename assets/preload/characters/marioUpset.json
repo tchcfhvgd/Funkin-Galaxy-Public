@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mario idle0"
+		},
+		{
+			"offsets": [
+				180,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mario left0"
+		},
+		{
+			"offsets": [
+				40,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mario down0"
+		},
+		{
+			"offsets": [
+				150,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mario up0"
+		},
+		{
+			"offsets": [
+				10,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mario right0"
+		},
+		{
+			"offsets": [
+				180,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "mario left miss0"
+		},
+		{
+			"offsets": [
+				40,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "mario down miss0"
+		},
+		{
+			"offsets": [
+				152,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "mario up miss0"
+		},
+		{
+			"offsets": [
+				55,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "mario right miss0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario/maroRoof",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		24,
+		24
+	],
+	"camera_position": [
+		-285,
+		-135
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

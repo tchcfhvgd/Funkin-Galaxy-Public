@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="Rabbit-pixel.png" width="46" height="287">
+	<SubTexture name="bitch instance 10000" x="3" y="175" width="39" height="53" frameX="-9" frameY="-12" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10001" x="3" y="175" width="39" height="53" frameX="-9" frameY="-12" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10002" x="3" y="231" width="39" height="53" frameX="-9" frameY="-12" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10003" x="3" y="231" width="39" height="53" frameX="-9" frameY="-12" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10004" x="3" y="61" width="40" height="54" frameX="-10" frameY="-11" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10005" x="3" y="61" width="40" height="54" frameX="-10" frameY="-11" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10006" x="3" y="118" width="40" height="54" frameX="-11" frameY="-11" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10007" x="3" y="118" width="40" height="54" frameX="-11" frameY="-11" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10008" x="3" y="3" width="40" height="55" frameX="-11" frameY="-10" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10009" x="3" y="3" width="40" height="55" frameX="-11" frameY="-10" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10010" x="3" y="3" width="40" height="55" frameX="-11" frameY="-10" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10011" x="3" y="3" width="40" height="55" frameX="-11" frameY="-10" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10012" x="3" y="3" width="40" height="55" frameX="-11" frameY="-10" frameWidth="71" frameHeight="71"/>
+	<SubTexture name="bitch instance 10013" x="3" y="3" width="40" height="55" frameX="-11" frameY="-10" frameWidth="71" frameHeight="71"/>
+</TextureAtlas>

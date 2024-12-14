@@ -1,0 +1,22 @@
+:bg:factory1:
+:music:glitterGlow:
+:music:fadeIn:
+:narrator:default:Now Boyfriend, I know you're having fun and all, but something serious is about to go down.
+:bg:factory2:
+:narrator:bf:Bah?
+:bg:factory1:
+:narrator:default:Prankster Comets have been spotted over some of the galaxies you've visited.
+:bg:factory3:
+:narrator:default:There's something particularly interesting over in Honeyhive Galaxy...
+:fade:blank:
+:bg:cosmic1:
+:music:piracyScreen:
+:music:fadeIn:
+:hidetextbox:true:
+:hidetextbox:false:
+:narrator:cosmicbf:HELLO. I'M BOYFRIEND :)
+:narrator:cosmicbf:HEY, YOU LOOK JUST LIKE ME :0
+:narrator:cosmicbf:BUT CAN YOU SING JUST LIKE ME? :\
+:narrator:cosmicbf:LET'S FIND OUT :>
+:music:fadeOut:
+:narrator:bf:Beh?

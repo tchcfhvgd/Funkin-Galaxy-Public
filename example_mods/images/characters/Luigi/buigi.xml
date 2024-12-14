@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buigi.png"><SubTexture name="buigi idle0000" x="1775" y="755" width="571" height="750" frameX="-204" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi idle0001" x="0" y="2298" width="590" height="742" frameX="-194" frameY="-215" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi idle0002" x="2494" y="0" width="584" height="743" frameX="-199" frameY="-214" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi idle0003" x="1630" y="1548" width="574" height="749" frameX="-203" frameY="-208" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi idle0004" x="1775" y="755" width="571" height="750" frameX="-204" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi idle0005" x="1775" y="755" width="571" height="750" frameX="-204" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi left0000" x="721" y="789" width="724" height="755" frameX="-203" frameY="-202" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi left0001" x="1775" y="0" width="719" height="755" frameX="-206" frameY="-202" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi down0000" x="590" y="2298" width="544" height="699" frameX="-232" frameY="-256" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi down0001" x="2494" y="1470" width="554" height="708" frameX="-224" frameY="-247" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi up0000" x="0" y="0" width="596" height="789" frameX="-286" frameY="-160" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi up0001" x="1185" y="0" width="590" height="783" frameX="-285" frameY="-166" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi right0000" x="0" y="1548" width="537" height="750" frameX="-266" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi right0001" x="537" y="1548" width="545" height="750" frameX="-258" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missleft0000" x="721" y="789" width="724" height="755" frameX="-203" frameY="-202" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missleft0001" x="0" y="789" width="721" height="759" frameX="-205" frameY="-198" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missleft0002" x="0" y="789" width="721" height="759" frameX="-205" frameY="-198" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missleft0003" x="0" y="789" width="721" height="759" frameX="-205" frameY="-198" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missleft0004" x="0" y="789" width="721" height="759" frameX="-205" frameY="-198" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missleft0005" x="0" y="789" width="721" height="759" frameX="-205" frameY="-198" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missup0000" x="0" y="0" width="596" height="789" frameX="-286" frameY="-160" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missup0001" x="596" y="0" width="589" height="787" frameX="-285" frameY="-163" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missup0002" x="596" y="0" width="589" height="787" frameX="-285" frameY="-163" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missup0003" x="596" y="0" width="589" height="787" frameX="-285" frameY="-163" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missup0004" x="596" y="0" width="589" height="787" frameX="-285" frameY="-163" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missup0005" x="596" y="0" width="589" height="787" frameX="-285" frameY="-163" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missdown0000" x="590" y="2298" width="544" height="699" frameX="-232" frameY="-256" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missdown0001" x="2494" y="743" width="564" height="727" frameX="-227" frameY="-227" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missdown0002" x="2494" y="743" width="564" height="727" frameX="-227" frameY="-227" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missdown0003" x="2494" y="743" width="564" height="727" frameX="-227" frameY="-227" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missdown0004" x="2494" y="743" width="564" height="727" frameX="-227" frameY="-227" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missdown0005" x="2494" y="743" width="564" height="727" frameX="-227" frameY="-227" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missright0000" x="0" y="1548" width="537" height="750" frameX="-266" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missright0001" x="1082" y="1548" width="548" height="750" frameX="-258" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missright0002" x="1082" y="1548" width="548" height="750" frameX="-258" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missright0003" x="1082" y="1548" width="548" height="750" frameX="-258" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missright0004" x="1082" y="1548" width="548" height="750" frameX="-258" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="buigi missright0005" x="1082" y="1548" width="548" height="750" frameX="-258" frameY="-206" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

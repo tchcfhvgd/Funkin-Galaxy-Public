@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bonusSong.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bonussongenter0000" x="513" y="256" width="372" height="33" frameX="0" frameY="-58" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongenter0001" x="513" y="168" width="268" height="78" frameX="-432" frameY="-39" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongenter0002" x="277" y="167" width="226" height="132" frameX="-766" frameY="-16" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongenter0003" x="807" y="10" width="197" height="177" frameX="-1030" frameY="0" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongenter0004" x="807" y="10" width="197" height="177" frameX="-1030" frameY="0" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongenter0005" x="544" y="10" width="253" height="148" frameX="-1004" frameY="-12" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongenter0006" x="277" y="10" width="257" height="147" frameX="-1002" frameY="-13" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongenter0007" x="277" y="10" width="257" height="147" frameX="-1002" frameY="-13" frameWidth="1259" frameHeight="177"/>
+	<SubTexture name="bonussongidle0000" x="10" y="10" width="257" height="148"/>
+</TextureAtlas>

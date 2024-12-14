@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="ToadNerd.png" width="674" height="1004">
+	<SubTexture name="nerdbop0000" x="342" y="510" width="325" height="488" frameX="-18" frameY="-17" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0001" x="342" y="510" width="325" height="488" frameX="-18" frameY="-17" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0002" x="3" y="512" width="321" height="489" frameX="-19" frameY="-16" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0003" x="3" y="512" width="321" height="489" frameX="-19" frameY="-16" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0004" x="342" y="3" width="329" height="504" frameX="-7" frameY="-2" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0005" x="342" y="3" width="329" height="504" frameX="-7" frameY="-2" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0006" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0007" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0008" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0009" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0010" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0011" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0012" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+	<SubTexture name="nerdbop0013" x="3" y="3" width="336" height="506" frameX="-0" frameY="-0" frameWidth="343" frameHeight="506"/>
+</TextureAtlas>

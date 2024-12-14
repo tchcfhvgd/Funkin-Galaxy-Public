@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alienz.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alienz0000" x="2" y="2" width="895" height="495"/>
+	<SubTexture name="alienz0001" x="2" y="2" width="895" height="495"/>
+	<SubTexture name="alienz0002" x="2" y="2" width="895" height="495"/>
+	<SubTexture name="alienz0003" x="2" y="499" width="895" height="495"/>
+	<SubTexture name="alienz0004" x="2" y="499" width="895" height="495"/>
+	<SubTexture name="alienz0005" x="2" y="499" width="895" height="495"/>
+</TextureAtlas>

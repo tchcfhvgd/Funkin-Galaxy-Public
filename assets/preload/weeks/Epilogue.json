@@ -1,0 +1,24 @@
+{
+	"storyName": "Epilogue",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "burrows",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		["The Wish", "rosalina", [0, 55, 215]]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Epilogue"
+}

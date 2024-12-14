@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Burrows-pixel.png">
+	<!-- Created with Aseprite(?) -->
+
+	<SubTexture name="idle instance 0000" x="0" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0001" x="0" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0002" x="160" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0003" x="160" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0004" x="320" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0005" x="320" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0006" x="320" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0007" x="480" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0008" x="480" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0009" x="640" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0010" x="640" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0011" x="640" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0012" x="640" y="0" width="159" height="141"/>
+	<SubTexture name="idle instance 0013" x="640" y="0" width="159" height="141"/>
+
+	<SubTexture name="down instance 0000" x="0" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0001" x="0" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0002" x="0" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0003" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0004" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0005" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0006" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0007" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0008" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0009" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0010" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0011" x="160" y="142" width="159" height="141"/>
+	<SubTexture name="down instance 0012" x="160" y="142" width="159" height="141"/>
+	
+	<SubTexture name="left instance 0000" x="320" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0001" x="320" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0002" x="320" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0003" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0004" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0005" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0006" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0007" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0008" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0009" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0010" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0011" x="480" y="142" width="159" height="141"/>
+	<SubTexture name="left instance 0012" x="480" y="142" width="159" height="141"/>
+
+	<SubTexture name="right instance 0000" x="0" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0001" x="0" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0002" x="0" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0003" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0004" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0005" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0006" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0007" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0008" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0009" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0010" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0011" x="160" y="284" width="159" height="141"/>
+	<SubTexture name="right instance 0012" x="160" y="284" width="159" height="141"/>
+
+	<SubTexture name="up instance 0000" x="320" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0001" x="320" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0002" x="320" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0003" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0004" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0005" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0006" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0007" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0008" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0009" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0010" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0011" x="480" y="284" width="159" height="141"/>
+	<SubTexture name="up instance 0012" x="480" y="284" width="159" height="141"/>
+
+	<!-- Why  ? idk just enjoy the game -->
+
+</TextureAtlas>

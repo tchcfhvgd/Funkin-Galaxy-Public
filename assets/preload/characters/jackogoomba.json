@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jackogoomba_idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jackogoomba_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jackogoomba_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jackogoomba_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jackogoomba_right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Goomba/JackoGoomba",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "jackogoomba",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		101,
+		50
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

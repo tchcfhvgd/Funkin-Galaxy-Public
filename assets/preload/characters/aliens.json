@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "aliens idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3171,
+				5
+			],
+			"anim": "lyrics",
+			"fps": 24,
+			"name": "aliens lyrics0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sky Trees/thealiens",
+	"position": [
+		-1000,
+		-200
+	],
+	"healthicon": "skytree",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-2300,
+		-1900
+	],
+	"sing_duration": 4,
+	"scale": 3.25
+}

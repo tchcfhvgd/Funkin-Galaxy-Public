@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="you.png" width="1466" height="758">
+	<SubTexture name="downscroll0000" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0001" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0002" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0003" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0004" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0005" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0006" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0007" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0008" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0009" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0010" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0011" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0012" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0013" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0014" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0015" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0016" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0017" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0018" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0019" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0020" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0021" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0022" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0023" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0024" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0025" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0026" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0027" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0028" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0029" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0030" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0031" x="735" y="1" width="730" height="375" frameX="-1" frameY="-2" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="downscroll0032" x="1" y="1" width="731" height="376" frameX="-0" frameY="-1" frameWidth="736" frameHeight="380"/>
+	<SubTexture name="upscroll0000" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0001" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0002" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0003" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0004" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0005" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0006" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0007" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0008" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0009" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0010" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0011" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0012" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0013" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0014" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0015" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0016" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0017" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0018" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0019" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0020" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0021" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0022" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0023" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0024" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0025" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0026" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0027" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0028" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0029" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0030" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0031" x="735" y="379" width="730" height="377" frameX="-1" frameY="-0" frameWidth="736" frameHeight="381"/>
+	<SubTexture name="upscroll0032" x="1" y="380" width="731" height="377" frameX="-0" frameY="-0" frameWidth="736" frameHeight="381"/>
+</TextureAtlas>

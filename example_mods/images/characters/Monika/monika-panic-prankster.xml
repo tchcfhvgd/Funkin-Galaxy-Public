@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monika-panic-prankster.png">
+<SubTexture name="monika-panic-prankster idle0000" x="0" y="0" width="561" height="983" frameX="-165" frameY="-224" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster idle0001" x="561" y="0" width="536" height="880" frameX="-190" frameY="-224" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster idle0002" x="1097" y="0" width="549" height="884" frameX="-177" frameY="-220" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster idle0003" x="1646" y="0" width="556" height="888" frameX="-170" frameY="-216" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster idle0004" x="0" y="983" width="563" height="890" frameX="-163" frameY="-214" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster idle0005" x="0" y="983" width="563" height="890" frameX="-163" frameY="-214" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster idle0006" x="0" y="983" width="563" height="890" frameX="-163" frameY="-214" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster idle0007" x="0" y="983" width="563" height="890" frameX="-163" frameY="-214" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singDOWN0000" x="563" y="983" width="615" height="763" frameX="-67" frameY="-310" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singDOWN0001" x="1178" y="983" width="584" height="770" frameX="-84" frameY="-303" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singRIGHT0000" x="1762" y="983" width="497" height="855" frameX="-189" frameY="-215" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singRIGHT0001" x="0" y="1873" width="480" height="856" frameX="-195" frameY="-215" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singUP0000" x="480" y="1873" width="361" height="892" frameX="-197" frameY="-184" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singUP0001" x="841" y="1873" width="363" height="886" frameX="-197" frameY="-189" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singLEFT0000" x="1204" y="1873" width="477" height="864" frameX="-152" frameY="-216" frameWidth="720" frameHeight="1280" />
+<SubTexture name="monika-panic-prankster singLEFT0001" x="0" y="2765" width="478" height="864" frameX="-148" frameY="-216" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>

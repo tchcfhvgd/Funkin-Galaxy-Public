@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="WarioRobbingGold.png" width="8409" height="743">
+	<SubTexture name="Wario Smoking0000" x="479" y="3" width="471" height="724" frameX="-141" frameY="-42" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0001" x="3" y="3" width="473" height="720" frameX="-140" frameY="-46" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0002" x="953" y="3" width="466" height="726" frameX="-143" frameY="-40" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0003" x="2820" y="3" width="462" height="730" frameX="-144" frameY="-36" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0004" x="7032" y="3" width="456" height="737" frameX="-146" frameY="-29" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0005" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0006" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0007" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0008" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0009" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0010" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0011" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0012" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0013" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0014" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0015" x="479" y="3" width="471" height="724" frameX="-141" frameY="-42" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0016" x="3" y="3" width="473" height="720" frameX="-140" frameY="-46" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0017" x="953" y="3" width="466" height="726" frameX="-143" frameY="-40" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0018" x="2820" y="3" width="462" height="730" frameX="-144" frameY="-36" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0019" x="7032" y="3" width="456" height="737" frameX="-146" frameY="-29" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0020" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0021" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0022" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0023" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0024" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0025" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0026" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0027" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0028" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0029" x="5631" y="3" width="462" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0030" x="479" y="3" width="471" height="724" frameX="-141" frameY="-42" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0031" x="3" y="3" width="473" height="720" frameX="-140" frameY="-46" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0032" x="953" y="3" width="466" height="726" frameX="-143" frameY="-40" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0033" x="1422" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0034" x="1888" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0035" x="2354" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0036" x="2354" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0037" x="2354" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0038" x="2354" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0039" x="2354" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0040" x="2354" y="3" width="463" height="727" frameX="-144" frameY="-39" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0041" x="3285" y="3" width="462" height="730" frameX="-144" frameY="-36" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0042" x="7491" y="3" width="456" height="737" frameX="-146" frameY="-29" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0043" x="6096" y="3" width="465" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0044" x="4215" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0045" x="4687" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0046" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0047" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0048" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0049" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0050" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0051" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0052" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0053" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0054" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0055" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0056" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0057" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0058" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0059" x="5159" y="3" width="469" height="734" frameX="-142" frameY="-33" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0060" x="6564" y="3" width="465" height="735" frameX="-144" frameY="-31" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0061" x="7950" y="3" width="456" height="737" frameX="-146" frameY="-29" frameWidth="751" frameHeight="831"/>
+	<SubTexture name="Wario Smoking0062" x="3750" y="3" width="462" height="730" frameX="-144" frameY="-36" frameWidth="751" frameHeight="831"/>
+</TextureAtlas>

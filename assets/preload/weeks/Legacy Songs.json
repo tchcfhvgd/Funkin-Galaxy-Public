@@ -1,0 +1,27 @@
+{
+	"storyName": "Legacy Content",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "burrows",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		["Gusty Garden Old", "burrows-old", [6, 133, 255]],
+		["Toad Brigade Old", "captain-old", [240, 255, 180]],
+		["Cosmic Battle Old", "cosmicbf", [0, 0, 175]],
+		["Sexy Luigi Old", "pbg", [26, 255, 0]]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Legacy Songs"
+}

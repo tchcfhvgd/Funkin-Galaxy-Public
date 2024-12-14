@@ -1,0 +1,20 @@
+}<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="objectPixel.png">
+	<!-- Created with Aseprite(?) -->
+
+	<SubTexture name="object IDLE 0000" x="0" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0001" x="0" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0002" x="42" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0003" x="42" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0004" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0005" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0006" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0007" x="126" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0008" x="126" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0009" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0010" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0011" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0012" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="object IDLE 0013" x="168" y="0" width="41" height="41"/>
+
+</TextureAtlas>

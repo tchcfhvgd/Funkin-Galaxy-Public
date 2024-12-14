@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "aliens idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "aliens left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "aliens down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "aliens up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "aliens right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sky Trees/skytrees",
+	"position": [
+		-420,
+		475
+	],
+	"healthicon": "skytree",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

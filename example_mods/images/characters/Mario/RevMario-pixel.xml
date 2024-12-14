@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RevMarioPixel.png">
+	<!-- Created with Aseprite(?) -->
+	<SubTexture name="RevMario Idle 0000" x="0" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0001" x="0" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0002" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0003" x="85" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0004" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0005" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0006" x="170" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0007" x="255" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0008" x="255" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0009" x="340" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0010" x="340" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0011" x="340" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0012" x="340" y="0" width="84" height="101"/>
+	<SubTexture name="RevMario Idle 0013" x="340" y="0" width="84" height="101"/>
+
+	<SubTexture name="RevMario Down NOTE 0000" x="0" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0001" x="0" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0002" x="0" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0003" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0004" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0005" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0006" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0007" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0008" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0009" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0010" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0011" x="85" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Down NOTE 0012" x="85" y="102" width="84" height="101"/>
+	
+	<SubTexture name="RevMario Left NOTE 0000" x="170" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0001" x="170" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0002" x="170" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0003" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0004" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0005" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0006" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0007" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0008" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0009" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0010" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0011" x="255" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Left NOTE 0012" x="255" y="102" width="84" height="101"/>
+
+	<SubTexture name="RevMario Right NOTE 0000" x="340" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0001" x="340" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0002" x="340" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0003" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0004" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0005" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0006" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0007" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0008" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0009" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0010" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0011" x="425" y="102" width="84" height="101"/>
+	<SubTexture name="RevMario Right NOTE 0012" x="425" y="102" width="84" height="101"/>
+
+	<SubTexture name="RevMario Up NOTE 0000" x="0" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0001" x="0" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0002" x="0" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0003" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0004" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0005" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0006" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0007" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0008" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0009" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0010" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0011" x="85" y="204" width="84" height="101"/>
+	<SubTexture name="RevMario Up NOTE 0012" x="85" y="204" width="84" height="101"/>
+
+</TextureAtlas>

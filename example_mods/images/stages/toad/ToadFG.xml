@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="ToadFG.png" width="7798" height="776">
+	<SubTexture name="fg boppers0000" x="3926" y="3" width="1939" height="741" frameX="-15" frameY="-29" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0001" x="3926" y="3" width="1939" height="741" frameX="-15" frameY="-29" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0002" x="5868" y="3" width="1927" height="754" frameX="-27" frameY="-15" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0003" x="5868" y="3" width="1927" height="754" frameX="-27" frameY="-15" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0004" x="1975" y="3" width="1948" height="766" frameX="-14" frameY="-4" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0005" x="1975" y="3" width="1948" height="766" frameX="-14" frameY="-4" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0006" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0007" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0008" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0009" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0010" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0011" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0012" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+	<SubTexture name="fg boppers0013" x="3" y="3" width="1969" height="770" frameX="-2" frameY="-0" frameWidth="1977" frameHeight="785"/>
+</TextureAtlas>

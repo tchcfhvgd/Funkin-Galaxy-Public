@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF Dies0"
+		},
+		{
+			"offsets": [
+				1,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop0"
+		},
+		{
+			"offsets": [
+				1,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Deaths/ballerover",
+	"position": [
+		-20,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-90,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

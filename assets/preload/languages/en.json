@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "name": "English",
+        "translatedBy": "Ninja_muffin"
+    },
+
+    "saveData":"Save Data",
+    "resetData":"Reset Save Data",
+    "back":"Back",
+
+    "keys": {
+        "left":"Left",
+        "down":"Down",
+        "up":"Up",
+        "right":"Right",
+
+        "minusSign":"-",
+        "minus":"Minus",
+        "plusSign":"+",
+        "plus":"Plus",
+
+        "enter":"Enter",
+        "escape":"Escape",
+        "capslock":"Caps",
+        "space":"Space",
+        "backspace":"BckSpc"
+    },
+
+    "fps": {
+        "mainText": "FPS: {FPS}",
+        "memoryText": "Memory: {MEM} ({MEMPEAK} peak)"
+    },
+
+    "freeplay": {
+        "infoText": "Press SPACE to listen to the Song / Press CTRL to open the Gameplay Changers Menu / Press {RESET1} to Reset your Score and Accuracy.",
+        "infoTextReset2": "Press SPACE to listen to the Song / Press CTRL to open the Gameplay Changers Menu / Press {RESET1} or {RESET2} to Reset your Score and Accuracy.",
+        "bestScore": "Personal Best"
+    },
+
+    "gameplay" : {
+        "ratings": {
+            "ohNo": "Oh no!",
+            "uhOh": "Uh oh!",
+            "ohBoy": "Oh boy!",
+            "comeOn": "Oh, come on!",
+            "mamaMia": "Mama-Mia",
+            "nice": "Fucking Nice",
+            "yahoo": "Yahoo",
+            "great": "Great!",
+            "letsAGo": "Let's a go!",
+           "perfect": "Perfect!!"
+        },
+        "score": "Score",
+        "misses": "Misses",
+        "rating": "Rating",
+        "accuracy": "Accuracy"
+    }
+}

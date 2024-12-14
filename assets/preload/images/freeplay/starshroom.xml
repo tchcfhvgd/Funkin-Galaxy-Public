@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starshroom.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="starshroomidle0000" x="685" y="10" width="630" height="784" frameX="-35" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0001" x="685" y="10" width="630" height="784" frameX="-35" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0002" x="685" y="10" width="630" height="784" frameX="-35" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0003" x="685" y="10" width="630" height="784" frameX="-35" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0004" x="685" y="804" width="604" height="763" frameX="-61" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0005" x="685" y="804" width="604" height="763" frameX="-61" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0006" x="685" y="804" width="604" height="763" frameX="-61" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0007" x="685" y="804" width="604" height="763" frameX="-61" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0008" x="10" y="814" width="609" height="753" frameX="-56" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0009" x="10" y="814" width="609" height="753" frameX="-56" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0010" x="10" y="814" width="609" height="753" frameX="-56" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0011" x="10" y="814" width="609" height="753" frameX="-56" frameY="0" frameWidth="665" frameHeight="794"/>
+	<SubTexture name="starshroomidle0012" x="10" y="10" width="665" height="794"/>
+	<SubTexture name="starshroomidle0013" x="10" y="10" width="665" height="794"/>
+	<SubTexture name="starshroomidle0014" x="10" y="10" width="665" height="794"/>
+	<SubTexture name="starshroomidle0015" x="10" y="10" width="665" height="794"/>
+</TextureAtlas>

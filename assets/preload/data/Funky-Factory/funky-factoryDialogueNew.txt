@@ -1,0 +1,14 @@
+:bg:factory1:
+:music:glitterGlow:
+:music:fadeIn:
+:narrator:default:At this point in the story, Boyfriend will have traveled all throughout the universe, collecting Star Bits and Power Stars along the way.
+:bg:factory2:
+:narrator:bf:Beep stoo gah...
+:bg:factory1:
+:narrator:default:I said WILL. It's just for hype, do you know anything about marketing?
+:bg:factory3:
+:narrator:default:Besides, IT'S LUIGI TIME MOTHERFUCKERS!!!
+:narrator:default:He's been collecting Power Stars too, and you just happen to come across him in Toy Time Galaxy.
+:bg:factory4:
+:narrator:default:And what better way to say hello than a good ol' fashioned rap battle?
+:narrator:default:Go get 'em, tiger!

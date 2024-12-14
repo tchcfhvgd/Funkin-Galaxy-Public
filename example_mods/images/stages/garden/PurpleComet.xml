@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="PurpleComet.png" width="670" height="637">
+	<SubTexture name="Fall0000" x="3" y="3" width="332" height="316" frameX="-98" frameY="-107" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Fall0001" x="3" y="322" width="329" height="312" frameX="-101" frameY="-110" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Fall0002" x="335" y="322" width="329" height="311" frameX="-102" frameY="-110" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="Fall0003" x="338" y="3" width="329" height="311" frameX="-102" frameY="-111" frameWidth="512" frameHeight="512"/>
+</TextureAtlas>

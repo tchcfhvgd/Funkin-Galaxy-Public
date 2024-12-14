@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="healthSprite.png" width="484" height="449">
+	<SubTexture name="full" x="3" y="3" width="200" height="237" frameX="-0" frameY="-4" frameWidth="200" frameHeight="241"/>
+	<SubTexture name="mid" x="245" y="245" width="236" height="200" rotated="true" frameX="-0" frameY="-5" frameWidth="200" frameHeight="241"/>
+	<SubTexture name="low" x="3" y="246" width="236" height="200" rotated="true" frameX="-0" frameY="-5" frameWidth="200" frameHeight="241"/>
+	<SubTexture name="dareDevil-full" x="209" y="3" width="200" height="236" frameX="-0" frameY="-5" frameWidth="200" frameHeight="241"/>
+	<SubTexture name="dareDevil-mid" x="209" y="3" width="200" height="236" frameX="-0" frameY="-5" frameWidth="200" frameHeight="241"/>
+	<SubTexture name="dareDevil-low" x="209" y="3" width="200" height="236" frameX="-0" frameY="-5" frameWidth="200" frameHeight="241"/>
+</TextureAtlas>

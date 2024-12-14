@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="revMarios.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marioBop0000" x="2" y="2" width="2175" height="834" frameX="-8" frameY="-17" frameWidth="2190" frameHeight="851"/>
+	<SubTexture name="marioBop0001" x="2" y="2" width="2175" height="834" frameX="-8" frameY="-17" frameWidth="2190" frameHeight="851"/>
+	<SubTexture name="marioBop0002" x="2" y="838" width="2176" height="838" frameX="-7" frameY="-13" frameWidth="2190" frameHeight="851"/>
+	<SubTexture name="marioBop0003" x="2" y="838" width="2176" height="838" frameX="-7" frameY="-13" frameWidth="2190" frameHeight="851"/>
+	<SubTexture name="marioBop0004" x="2" y="1678" width="2181" height="847" frameX="-4" frameY="-4" frameWidth="2190" frameHeight="851"/>
+	<SubTexture name="marioBop0005" x="2" y="1678" width="2181" height="847" frameX="-4" frameY="-4" frameWidth="2190" frameHeight="851"/>
+	<SubTexture name="marioBop0006" x="2" y="2527" width="2190" height="851"/>
+	<SubTexture name="marioBop0007" x="2" y="2527" width="2190" height="851"/>
+	<SubTexture name="marioBop0008" x="2" y="2527" width="2190" height="851"/>
+	<SubTexture name="marioBop0009" x="2" y="2527" width="2190" height="851"/>
+	<SubTexture name="marioBop0010" x="2" y="2527" width="2190" height="851"/>
+	<SubTexture name="marioBop0011" x="2" y="2527" width="2190" height="851"/>
+	<SubTexture name="marioBop0012" x="2" y="2527" width="2190" height="851"/>
+	<SubTexture name="marioBop0013" x="2" y="2527" width="2190" height="851"/>
+</TextureAtlas>

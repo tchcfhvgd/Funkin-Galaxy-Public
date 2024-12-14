@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RevMario Idle"
+		},
+		{
+			"offsets": [
+				30,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RevMario Left"
+		},
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RevMario Down"
+		},
+		{
+			"offsets": [
+				4,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RevMario Up"
+		},
+		{
+			"offsets": [
+				4,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RevMario Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mario/RevMario-pixel",
+	"position": [
+		165,
+		355
+	],
+	"healthicon": "mario128-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		47,
+		83
+	],
+	"camera_position": [
+		-360,
+		-240
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 7.7
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cosmic BF Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cosmic BF Left"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cosmic BF Right"
+		},
+		{
+			"offsets": [
+				40,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cosmic BF Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cosmic BF Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cosmic Boyfriend/Cosmic_BF",
+	"position": [
+		-600,
+		260
+	],
+	"healthicon": "cosmicbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		40,
+		160
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

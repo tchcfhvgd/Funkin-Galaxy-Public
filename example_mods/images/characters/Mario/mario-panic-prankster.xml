@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mario-panic-prankster.png">
+<SubTexture name="mario-panic-prankster idle0000" x="0" y="0" width="477" height="446" frameX="-126" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster idle0001" x="477" y="0" width="465" height="450" frameX="-132" frameY="-442" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster idle0002" x="942" y="0" width="451" height="454" frameX="-140" frameY="-438" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster idle0003" x="1393" y="0" width="434" height="459" frameX="-148" frameY="-433" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster idle0004" x="0" y="459" width="428" height="462" frameX="-151" frameY="-430" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster idle0005" x="428" y="459" width="428" height="464" frameX="-151" frameY="-428" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singDOWN0000" x="856" y="459" width="560" height="404" frameX="-106" frameY="-486" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singDOWN0001" x="1416" y="459" width="527" height="423" frameX="-122" frameY="-468" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singRIGHT0000" x="0" y="923" width="585" height="537" frameX="-41" frameY="-345" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singRIGHT0001" x="585" y="923" width="557" height="521" frameX="-82" frameY="-367" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singRIGHT0002" x="1142" y="923" width="438" height="484" frameX="-111" frameY="-404" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singRIGHT0003" x="1580" y="923" width="560" height="404" frameX="-106" frameY="-486" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singRIGHT0004" x="0" y="1460" width="527" height="423" frameX="-122" frameY="-468" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singRIGHT0005" x="942" y="0" width="451" height="454" frameX="-140" frameY="-438" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singRIGHT0006" x="428" y="459" width="428" height="464" frameX="-151" frameY="-428" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singUP0000" x="527" y="1460" width="466" height="834" frameX="-130" frameY="-127" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singUP0001" x="993" y="1460" width="467" height="804" frameX="-134" frameY="-174" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singUP0002" x="1460" y="1460" width="488" height="724" frameX="-120" frameY="-258" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singUP0003" x="0" y="2294" width="560" height="404" frameX="-106" frameY="-486" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singUP0004" x="0" y="1460" width="527" height="423" frameX="-122" frameY="-468" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singUP0005" x="942" y="0" width="451" height="454" frameX="-140" frameY="-438" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singUP0006" x="428" y="459" width="428" height="464" frameX="-151" frameY="-428" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singLEFT0000" x="560" y="2294" width="460" height="504" frameX="-259" frameY="-385" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singLEFT0001" x="1020" y="2294" width="436" height="475" frameX="-288" frameY="-423" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singLEFT0002" x="1456" y="2294" width="620" height="404" frameX="-106" frameY="-486" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singLEFT0003" x="0" y="2798" width="599" height="423" frameX="-122" frameY="-468" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singLEFT0004" x="942" y="0" width="451" height="454" frameX="-140" frameY="-438" frameWidth="720" frameHeight="1280" />
+<SubTexture name="mario-panic-prankster singLEFT0005" x="428" y="459" width="428" height="464" frameX="-151" frameY="-428" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>

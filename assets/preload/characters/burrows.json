@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				93
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				68,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				8,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				8,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "shocked",
+			"fps": 20,
+			"name": "shocked",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Major Burrows/Burrows",
+	"position": [
+		-420,
+		-20
+	],
+	"healthicon": "burrows",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		44,
+		65
+	],
+	"camera_position": [
+		240,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

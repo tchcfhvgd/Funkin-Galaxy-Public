@@ -1,0 +1,20 @@
+{
+  "name": "stickers-set-1",
+  "artist": "PhantomArcade3K, AidenIsABot",
+  "stickers": {
+    "bf": ["base/bfSticker1", "base/bfSticker2", "base/bfSticker3"],
+    "gf": ["base/gfSticker1", "base/gfSticker2", "base/gfSticker3"],
+    "mario": ["base/marioSticker1", "base/marioSticker2", "base/marioSticker3"],
+    "luigi": ["base/luigiSticker1", "base/luigiSticker2", "base/luigiSticker3"],
+    "rosa": ["base/rosaSticker1", "base/rosaSticker2", "base/rosaSticker3"],
+    "toad": ["base/toadSticker1", "base/toadSticker2", "base/toadSticker3"],
+    "lubba": ["base/lubbaSticker1", "base/lubbaSticker2", "base/lubbaSticker3"],
+    "pbg": ["base/pbgSticker1", "base/pbgSticker2", "base/pbgSticker3"],
+    "cinder": ["base/cinderSticker1", "base/cinderSticker2", "base/cinderSticker3"],
+
+    "furo": ["devs/furoSticker1"]
+  },
+  "stickerPacks": {
+    "all": ["bf", "gf", "mario", "rosa", "toad", "lubba", "pbg", "cinder", "luigi"]
+  }
+}

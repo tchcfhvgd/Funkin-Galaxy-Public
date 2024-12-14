@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="bg.png" width="5431" height="1087">
+	<SubTexture name="bg0000" x="3" y="3" width="2711" height="1081" frameX="-0" frameY="-0" frameWidth="2711" frameHeight="1081"/>
+	<SubTexture name="bg0001" x="3" y="3" width="2711" height="1081" frameX="-0" frameY="-0" frameWidth="2711" frameHeight="1081"/>
+	<SubTexture name="bg0002" x="2717" y="3" width="2711" height="1081" frameX="-0" frameY="-0" frameWidth="2711" frameHeight="1081"/>
+	<SubTexture name="bg0003" x="2717" y="3" width="2711" height="1081" frameX="-0" frameY="-0" frameWidth="2711" frameHeight="1081"/>
+</TextureAtlas>

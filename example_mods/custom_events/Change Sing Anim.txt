@@ -1,0 +1,8 @@
+Value 1: Sing Alt Anims
+Types include; "-alt" and "miss".
+To use the defaults leave this
+in blank or write "normal".
+(Don't put a "-" when using miss!)
+
+Value 2: Character to Change Anim
+Characters include; "bf", "gf" and "dad" (WIP)

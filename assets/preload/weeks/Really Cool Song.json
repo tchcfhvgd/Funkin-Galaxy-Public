@@ -1,0 +1,24 @@
+{
+	"storyName": "THIS SONG IS CRAZY BRO WHAT",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "burrows",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		["Purple Coin Lyrics", "bf-lyrics", [255, 113, 253]]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra Songs"
+}

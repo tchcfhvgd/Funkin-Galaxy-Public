@@ -1,0 +1,4 @@
+omg change time if you have time change script
+
+Value 1: Seconds
+Value 2: Minutes

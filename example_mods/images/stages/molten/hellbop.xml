@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hellbop.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 180000" x="0" y="0" width="2021" height="415" frameX="-22" frameY="-42" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180001" x="0" y="0" width="2021" height="415" frameX="-22" frameY="-42" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180002" x="2039" y="0" width="2006" height="423" frameX="-28" frameY="-28" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180003" x="2039" y="0" width="2006" height="423" frameX="-28" frameY="-28" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180004" x="0" y="441" width="2038" height="433" frameX="-12" frameY="-7" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180005" x="0" y="441" width="2038" height="433" frameX="-12" frameY="-7" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180006" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180007" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180008" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180009" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180010" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180011" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180012" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+	<SubTexture name="Symbol 180013" x="0" y="892" width="2065" height="433" frameX="0" frameY="0" frameWidth="2065" frameHeight="457"/>
+</TextureAtlas>

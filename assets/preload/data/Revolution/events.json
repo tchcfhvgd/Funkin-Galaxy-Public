@@ -1,0 +1,518 @@
+{
+	"events": [
+		[
+			0,
+			[
+				[
+					"Toggle Trail",
+					"96234f",
+					"31B0D1"
+				],
+				[
+					"Set Cam Zoom",
+					"0.85",
+					"20"
+				]
+			]
+		],
+		[
+			13945.3125,
+			[
+				[
+					"Hide Hud",
+					"2",
+					""
+				]
+			]
+		],
+		[
+			14062.5,
+			[
+				[
+					"Camera Follow Pos",
+					"",
+					""
+				]
+			]
+		],
+		[
+			15000,
+			[
+				[
+					"Set Cam Zoom",
+					"0.7",
+					"1"
+				]
+			]
+		],
+		[
+			103125,
+			[
+				[
+					"coverScreen",
+					"",
+					""
+				],
+				[
+					"Change Note Skin",
+					"PIXELNOTE_assets, both",
+					"false"
+				],
+				[
+					"Change Note Splashes",
+					"PIXELnoteSplashes",
+					""
+				],
+				[
+					"revolution-pixel",
+					"pixel",
+					""
+				],
+				[
+					"Change Character",
+					"bf",
+					"proto-bf-pixel"
+				],
+				[
+					"Change Character",
+					"dad",
+					"128-mario-pixel"
+				]
+			]
+		],
+		[
+			103359.375,
+			[
+				[
+					"coverScreen",
+					"false",
+					""
+				]
+			]
+		],
+		[
+			140625,
+			[
+				[
+					"coverScreen",
+					"",
+					""
+				],
+				[
+					"Change Note Skin",
+					"NOTE_assets, both",
+					"false"
+				],
+				[
+					"Change Note Splashes",
+					"noteSplashes",
+					""
+				],
+				[
+					"revolution-pixel",
+					"normal",
+					""
+				],
+				[
+					"Change Character",
+					"bf",
+					"proto-bf"
+				],
+				[
+					"Change Character",
+					"dad",
+					"128-mario"
+				]
+			]
+		],
+		[
+			140859.375,
+			[
+				[
+					"coverScreen",
+					"false",
+					""
+				]
+			]
+		],
+		[
+			175781.25,
+			[
+				[
+					"coverScreen",
+					"",
+					""
+				],
+				[
+					"Change Note Skin",
+					"PIXELNOTE_assets, both",
+					"false"
+				],
+				[
+					"Change Note Splashes",
+					"PIXELnoteSplashes",
+					""
+				],
+				[
+					"revolution-pixel",
+					"pixel",
+					""
+				],
+				[
+					"Change Character",
+					"bf",
+					"proto-bf-pixel"
+				],
+				[
+					"Change Character",
+					"dad",
+					"128-mario-pixel"
+				]
+			]
+		],
+		[
+			176015.625,
+			[
+				[
+					"coverScreen",
+					"false",
+					""
+				]
+			]
+		],
+		[
+			183281.25,
+			[
+				[
+					"coverScreen",
+					"",
+					""
+				],
+				[
+					"Change Note Skin",
+					"NOTE_assets, both",
+					"false"
+				],
+				[
+					"Change Note Splashes",
+					"noteSplashes",
+					""
+				],
+				[
+					"revolution-pixel",
+					"normal",
+					""
+				],
+				[
+					"Change Character",
+					"bf",
+					"proto-bf"
+				],
+				[
+					"Change Character",
+					"dad",
+					"128-mario"
+				]
+			]
+		],
+		[
+			183515.625,
+			[
+				[
+					"coverScreen",
+					"false",
+					""
+				]
+			]
+		],
+		[
+			187265.625,
+			[
+				[
+					"Set Cam Zoom",
+					"0.725",
+					"1"
+				]
+			]
+		],
+		[
+			190781.25,
+			[
+				[
+					"Hide Hud",
+					"1",
+					""
+				]
+			]
+		],
+		[
+			191250,
+			[
+				[
+					"Set Cam Zoom",
+					"0.675",
+					"1.5"
+				]
+			]
+		]
+	],
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"96234f",
+						"31B0D1"
+					],
+					[
+						"Set Cam Zoom",
+						"0.85",
+						"20"
+					]
+				]
+			],
+			[
+				13945.3125,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				14062.5,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				103125,
+				[
+					[
+						"coverScreen",
+						"",
+						""
+					],
+					[
+						"Change Note Skin",
+						"PIXELNOTE_assets, both",
+						"false"
+					],
+					[
+						"Change Note Splashes",
+						"PIXELnoteSplashes",
+						""
+					],
+					[
+						"revolution-pixel",
+						"pixel",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"proto-bf-pixel"
+					],
+					[
+						"Change Character",
+						"dad",
+						"128-mario-pixel"
+					]
+				]
+			],
+			[
+				103359.375,
+				[
+					[
+						"coverScreen",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				140625,
+				[
+					[
+						"coverScreen",
+						"",
+						""
+					],
+					[
+						"Change Note Skin",
+						"NOTE_assets, both",
+						"false"
+					],
+					[
+						"Change Note Splashes",
+						"noteSplashes",
+						""
+					],
+					[
+						"revolution-pixel",
+						"normal",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"proto-bf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"128-mario"
+					]
+				]
+			],
+			[
+				140859.375,
+				[
+					[
+						"coverScreen",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				175781.25,
+				[
+					[
+						"coverScreen",
+						"",
+						""
+					],
+					[
+						"Change Note Skin",
+						"PIXELNOTE_assets, both",
+						"false"
+					],
+					[
+						"Change Note Splashes",
+						"PIXELnoteSplashes",
+						""
+					],
+					[
+						"revolution-pixel",
+						"pixel",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"proto-bf-pixel"
+					],
+					[
+						"Change Character",
+						"dad",
+						"128-mario-pixel"
+					]
+				]
+			],
+			[
+				176015.625,
+				[
+					[
+						"coverScreen",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				183281.25,
+				[
+					[
+						"coverScreen",
+						"",
+						""
+					],
+					[
+						"Change Note Skin",
+						"NOTE_assets, both",
+						"false"
+					],
+					[
+						"Change Note Splashes",
+						"noteSplashes",
+						""
+					],
+					[
+						"revolution-pixel",
+						"normal",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"proto-bf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"128-mario"
+					]
+				]
+			],
+			[
+				183515.625,
+				[
+					[
+						"coverScreen",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				187265.625,
+				[
+					[
+						"Set Cam Zoom",
+						"0.725",
+						"1"
+					]
+				]
+			],
+			[
+				190781.25,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				191250,
+				[
+					[
+						"Set Cam Zoom",
+						"0.675",
+						"1.5"
+					]
+				]
+			]
+		]
+	}
+}

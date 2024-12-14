@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				11,
+				511
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "entrance",
+			"indices": [],
+			"name": "jumppipe"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend/bf-gstart",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

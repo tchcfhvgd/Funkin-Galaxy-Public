@@ -1,0 +1,315 @@
+}<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MarioPixel.png">
+	<!-- Created with Aseprite(?) -->
+
+	<SubTexture name="Mario IDLE_ 0000" x="0" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0001" x="0" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0002" x="42" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0003" x="42" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0004" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0005" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0006" x="84" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0007" x="126" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0008" x="126" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0009" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0010" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0011" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0012" x="168" y="0" width="41" height="41"/>
+	<SubTexture name="Mario IDLE_ 0013" x="168" y="0" width="41" height="41"/>
+
+	<SubTexture name="Mario Hey!_ 0000" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0001" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0002" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0003" x="210" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0004" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0005" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0006" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0007" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0008" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0009" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0010" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0011" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0012" x="252" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0013" x="294" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0014" x="294" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0015" x="294" y="0" width="41" height="41"/>
+	<SubTexture name="Mario Hey!_ 0016" x="294" y="0" width="41" height="41"/>
+
+	<SubTexture name="Mario DOWN NOTE_ 0000" x="0" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0001" x="0" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0002" x="0" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0003" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0004" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0005" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0006" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0007" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0008" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0009" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0010" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0011" x="42" y="42" width="41" height="41"/>
+	<SubTexture name="Mario DOWN NOTE_ 0012" x="42" y="42" width="41" height="41"/>
+	
+	<SubTexture name="Mario LEFT NOTE_ 0000" x="84" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0001" x="84" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0002" x="84" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0003" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0004" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0005" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0006" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0007" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0008" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0009" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0010" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0011" x="126" y="42" width="41" height="41"/>
+	<SubTexture name="Mario LEFT NOTE_ 0012" x="126" y="42" width="41" height="41"/>
+
+	<SubTexture name="Mario RIGHT NOTE_ 0000" x="168" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0001" x="168" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0002" x="168" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0003" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0004" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0005" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0006" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0007" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0008" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0009" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0010" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0011" x="210" y="42" width="41" height="41"/>
+	<SubTexture name="Mario RIGHT NOTE_ 0012" x="210" y="42" width="41" height="41"/>
+
+	<SubTexture name="Mario UP NOTE_ 0000" x="252" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0001" x="252" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0002" x="252" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0003" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0004" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0005" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0006" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0007" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0008" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0009" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0010" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0011" x="294" y="42" width="41" height="41"/>
+	<SubTexture name="Mario UP NOTE_ 0012" x="294" y="42" width="41" height="41"/>
+
+
+	<SubTexture name="Mario alt DOWN NOTE_ 0000" x="0" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0001" x="0" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0002" x="0" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0003" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0004" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0005" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0006" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0007" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0008" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0009" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0010" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0011" x="42" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt DOWN NOTE_ 0012" x="42" y="84" width="41" height="41"/>
+	
+	<SubTexture name="Mario alt LEFT NOTE_ 0000" x="84" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0001" x="84" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0002" x="84" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0003" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0004" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0005" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0006" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0007" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0008" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0009" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0010" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0011" x="126" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt LEFT NOTE_ 0012" x="126" y="84" width="41" height="41"/>
+
+	<SubTexture name="Mario alt RIGHT NOTE_ 0000" x="168" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0001" x="168" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0002" x="168" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0003" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0004" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0005" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0006" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0007" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0008" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0009" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0010" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0011" x="210" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt RIGHT NOTE_ 0012" x="210" y="84" width="41" height="41"/>
+
+	<SubTexture name="Mario alt UP NOTE_ 0000" x="252" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0001" x="252" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0002" x="252" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0003" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0004" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0005" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0006" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0007" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0008" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0009" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0010" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0011" x="294" y="84" width="41" height="41"/>
+	<SubTexture name="Mario alt UP NOTE_ 0012" x="294" y="84" width="41" height="41"/>
+
+
+
+	<SubTexture name="Mario MISS DOWN NOTE_ 0000" x="0" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0001" x="0" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0002" x="0" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0003" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0004" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0005" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0006" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0007" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0008" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0009" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0010" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0011" x="42" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS DOWN NOTE_ 0012" x="42" y="126" width="41" height="41"/>
+	
+	<SubTexture name="Mario MISS LEFT NOTE_ 0000" x="84" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0001" x="84" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0002" x="84" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0003" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0004" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0005" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0006" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0007" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0008" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0009" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0010" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0011" x="126" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS LEFT NOTE_ 0012" x="126" y="126" width="41" height="41"/>
+
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0000" x="168" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0001" x="168" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0002" x="168" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0003" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0004" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0005" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0006" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0007" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0008" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0009" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0010" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0011" x="210" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS RIGHT NOTE_ 0012" x="210" y="126" width="41" height="41"/>
+
+	<SubTexture name="Mario MISS UP NOTE_ 0000" x="252" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0001" x="252" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0002" x="252" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0003" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0004" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0005" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0006" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0007" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0008" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0009" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0010" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0011" x="294" y="126" width="41" height="41"/>
+	<SubTexture name="Mario MISS UP NOTE_ 0012" x="294" y="126" width="41" height="41"/>
+
+	<SubTexture name="Mario SPIN_ 0000" x="0" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0001" x="0" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0002" x="42" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0003" x="42" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0004" x="84" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0005" x="84" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0006" x="84" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0007" x="126" y="168" width="41" height="41"/>
+	<SubTexture name="Mario SPIN_ 0008" x="126" y="168" width="41" height="41"/>
+	<!-- Why spin animation? idk just enjoy the game -->
+
+	<SubTexture name="Mario back_ 0001" x="126" y="168" width="41" height="41"/>
+	<SubTexture name="Mario front_ 0001" x="0" y="252" width="41" height="41"/>
+	
+	<SubTexture name="Mario walk_ 0000" x="210" y="168" width="41" height="41"/>
+	<SubTexture name="Mario walk_ 0001" x="210" y="168" width="41" height="41"/>
+	<SubTexture name="Mario walk_ 0002" x="252" y="168" width="41" height="41"/>
+	<SubTexture name="Mario walk_ 0003" x="252" y="168" width="41" height="41"/>
+	<SubTexture name="Mario walk_ 0004" x="168" y="168" width="41" height="41"/>
+	<SubTexture name="Mario walk_ 0005" x="168" y="168" width="41" height="41"/>
+	<SubTexture name="Mario walk_ 0006" x="168" y="168" width="41" height="41"/>
+
+	<SubTexture name="Mario skid_ 0001" x="294" y="168" width="41" height="41"/>
+
+	<SubTexture name="Mario star DOWN NOTE_ 0000" x="0" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0001" x="0" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0002" x="0" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0003" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0004" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0005" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0006" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0007" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0008" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0009" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0010" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0011" x="42" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star DOWN NOTE_ 0012" x="42" y="210" width="41" height="41"/>
+	
+	<SubTexture name="Mario star LEFT NOTE_ 0000" x="84" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0001" x="84" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0002" x="84" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0003" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0004" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0005" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0006" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0007" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0008" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0009" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0010" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0011" x="126" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star LEFT NOTE_ 0012" x="126" y="210" width="41" height="41"/>
+
+	<SubTexture name="Mario star RIGHT NOTE_ 0000" x="168" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0001" x="168" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0002" x="168" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0003" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0004" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0005" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0006" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0007" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0008" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0009" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0010" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0011" x="210" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star RIGHT NOTE_ 0012" x="210" y="210" width="41" height="41"/>
+
+	<SubTexture name="Mario star UP NOTE_ 0000" x="252" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0001" x="252" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0002" x="252" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0003" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0004" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0005" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0006" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0007" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0008" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0009" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0010" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0011" x="294" y="210" width="41" height="41"/>
+	<SubTexture name="Mario star UP NOTE_ 0012" x="294" y="210" width="41" height="41"/>
+
+
+		<SubTexture name="Mario superJump_ 0000" x="84" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0001" x="126" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0002" x="168" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0003" x="168" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0004" x="168" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0005" x="168" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0006" x="210" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0007" x="210" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0008" x="210" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0009" x="252" y="252" width="41" height="41"/>
+
+	<SubTexture name="Mario superJump_ 0010" x="252" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0011" x="252" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0012" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0013" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0014" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0015" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0016" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0017" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0018" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0019" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0020" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0021" x="294" y="252" width="41" height="41"/>
+	<SubTexture name="Mario superJump_ 0022" x="294" y="252" width="41" height="41"/>
+
+</TextureAtlas>

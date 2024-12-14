@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="Fireworks.png" width="2257" height="2237">
+	<SubTexture name="fireworks0000" x="3" y="862" width="1532" height="350" frameX="-416" frameY="-554" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0001" x="3" y="3" width="1533" height="467" frameX="-417" frameY="-237" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0002" x="3" y="473" width="1607" height="386" frameX="-345" frameY="-82" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0003" x="3" y="473" width="1607" height="386" frameX="-345" frameY="-82" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0004" x="3" y="1215" width="1794" height="283" frameX="-302" frameY="-10" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0005" x="1800" y="3" width="258" height="1836" rotated="true" frameX="-284" frameY="-11" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0006" x="3" y="1501" width="1450" height="345" frameX="-680" frameY="-11" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0007" x="3" y="1501" width="1450" height="345" frameX="-680" frameY="-11" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0008" x="3" y="1849" width="1103" height="385" frameX="-650" frameY="-11" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0009" x="1109" y="1849" width="1145" height="366" frameX="-620" frameY="-63" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0010" x="1109" y="1849" width="1145" height="366" frameX="-620" frameY="-63" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0011" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0012" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0013" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0014" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0015" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0016" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0017" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0018" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0019" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0020" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0021" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0022" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0023" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0024" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0025" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0026" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0027" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0028" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0029" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0030" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0031" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0032" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0033" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0034" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0035" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0036" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0037" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0038" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0039" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0040" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0041" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0042" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0043" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0044" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0045" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0046" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0047" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0048" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0049" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0050" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+	<SubTexture name="fireworks0051" x="1456" y="1842" width="1" height="1" frameX="-0" frameY="-0" frameWidth="2532" frameHeight="1767"/>
+</TextureAtlas>

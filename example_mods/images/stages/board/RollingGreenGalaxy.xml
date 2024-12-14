@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Asset made for Super Funkin' Galaxy
+-->
+<TextureAtlas imagePath="RollingGreenGalaxy.png" width="6098" height="1601">
+	<SubTexture name="Tamakoro" x="5521.5" y="795.75" width="573.75" height="533.25" frameX="-497.25" frameY="-747.75" frameWidth="2868.75" frameHeight="1596"/>
+	<SubTexture name="TamakoroClouds" x="2873.25" y="795.75" width="2646" height="697.5" frameX="-30.75" frameY="-27.75" frameWidth="2868.75" frameHeight="1596"/>
+	<SubTexture name="TamakoroGround" x="2873.25" y="2.25" width="2868.75" height="791.25" frameX="-0" frameY="-7.5" frameWidth="2868.75" frameHeight="798.75"/>
+	<SubTexture name="TamakoroSpace" x="2.25" y="2.25" width="2868.75" height="1596" frameX="-0" frameY="-0" frameWidth="2868.75" frameHeight="1596"/>
+</TextureAtlas>

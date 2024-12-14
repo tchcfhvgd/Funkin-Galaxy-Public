@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "mario-panic-prankster idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mario-panic-prankster singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mario-panic-prankster singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mario-panic-prankster singUP"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mario-panic-prankster singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario/mario-panic-prankster",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "mario-speedrunner",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		20,
+		25
+	],
+	"camera_position": [
+		60,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

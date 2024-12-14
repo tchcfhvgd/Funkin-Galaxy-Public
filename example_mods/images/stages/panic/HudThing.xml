@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HUD.png">
+<SubTexture name="1Hearth 0000" x="0" y="0" width="63" height="16" />
+<SubTexture name="2Hearth 0001" x="0" y="16" width="63" height="16"/>
+<SubTexture name="3Hearth 0002" x="0" y="32" width="63" height="16"/>
+<SubTexture name="4Hearth 0003" x="0" y="48" width="63" height="16"/>
+<SubTexture name="5Hearth 0003" x="64" y="0" width="63" height="16"/>
+<SubTexture name="6Hearth 0003" x="64" y="16" width="63" height="16"/>
+<SubTexture name="7Hearth 0003" x="64" y="32" width="63" height="16"/>
+<SubTexture name="8Hearth 0003" x="64" y="48" width="63" height="16"/>
+
+<SubTexture name="alt 1Hearth 0000" x="128" y="0" width="13" height="64" />
+<SubTexture name="alt 2Hearth 0001" x="141" y="0" width="13" height="64"/>
+<SubTexture name="alt 3Hearth 0002" x="154" y="0" width="13" height="64"/>
+<SubTexture name="alt 4Hearth 0003" x="167" y="0" width="13" height="64"/>
+<SubTexture name="alt 5Hearth 0003" x="180" y="0" width="13" height="64"/>
+<SubTexture name="alt 6Hearth 0003" x="193" y="0" width="13" height="64"/>
+<SubTexture name="alt 7Hearth 0003" x="206" y="0" width="13" height="64"/>
+<SubTexture name="alt 8Hearth 0003" x="219" y="0" width="13" height="64"/>
+
+<SubTexture name="miss 20Limit 0000" x="0" y="65" width="16" height="7" />
+<SubTexture name="miss 19Limit 0001" x="0" y="73" width="16" height="7" />
+<SubTexture name="miss 18Limit 0002" x="0" y="81" width="16" height="7" />
+<SubTexture name="miss 17Limit 0003" x="0" y="89" width="16" height="7" />
+<SubTexture name="miss 16Limit 0004" x="0" y="97" width="16" height="7" />
+<SubTexture name="miss 15Limit 0005" x="17" y="65" width="16" height="7" />
+<SubTexture name="miss 14Limit 0006" x="17" y="73" width="16" height="7" />
+<SubTexture name="miss 13Limit 0001" x="17" y="81" width="16" height="7" />
+<SubTexture name="miss 12Limit 0002" x="17" y="89" width="16" height="7" />
+<SubTexture name="miss 11Limit 0001" x="17" y="97" width="16" height="7" />
+<SubTexture name="miss 10Limit 0004" x="34" y="65" width="16" height="7" />
+<SubTexture name="miss 9Limit 0009" x="34" y="73" width="16" height="7" />
+<SubTexture name="miss 8Limit 0006" x="34" y="81" width="16" height="7" />
+<SubTexture name="miss 7Limit 0006" x="34" y="89" width="16" height="7" />
+<SubTexture name="miss 6Limit 0006" x="34" y="97" width="16" height="7" />
+<SubTexture name="miss 5Limit 0005" x="51" y="65" width="16" height="7" />
+<SubTexture name="miss 4Limit 0004" x="51" y="73" width="16" height="7" />
+<SubTexture name="miss 3Limit 0003" x="51" y="81" width="16" height="7" />
+<SubTexture name="miss 2Limit 0006" x="51" y="89" width="16" height="7" />
+<SubTexture name="miss 1Limit 0006" x="51" y="97" width="16" height="7" />
+<SubTexture name="miss 0Limit 0006" x="72" y="97" width="16" height="7" />
+<SubTexture name="miss NegativeLimit 0006" x="72" y="89" width="48" height="16"/>
+
+<SubTexture name="LimitText 0000" x="72" y="65" width="49" height="15" />
+
+<SubTexture name="Bravo 0000" x="127" y="65" width="42" height="16" />
+<SubTexture name="Bravo 0001" x="127" y="65" width="42" height="16" />
+<SubTexture name="Bravo 0002" x="127" y="65" width="42" height="16" />
+<SubTexture name="Bravo 0003" x="127" y="81" width="42" height="16" />
+
+<SubTexture name="OhNo 0001" x="127" y="97" width="42" height="16" />
+
+<SubTexture name="Lucky 0001" x="174" y="65" width="65" height="16" />
+<SubTexture name="Go 0001" x="174" y="81" width="65" height="16" />
+<SubTexture name="ThankYou 0000" x="174" y="97" width="36" height="16" />
+<SubTexture name="ThankYou 0001" x="174" y="97" width="36" height="16" />
+<SubTexture name="ThankYou 0002" x="174" y="97" width="36" height="16" />
+<SubTexture name="ThankYou 0003" x="174" y="97" width="36" height="16" />
+<SubTexture name="ThankYou 0004" x="174" y="97" width="65" height="16" />
+
+
+<SubTexture name="vacio 0001" x="0" y="104" width="6" height="7" />
+
+</TextureAtlas>

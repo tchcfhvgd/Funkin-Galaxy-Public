@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M bf HEY",
+	"idle_anim": "M BF Idle",
+	"position": [
+		-375,
+		-3
+	],
+	"scale": 0.75,
+	"image": "Menu_BF"
+}

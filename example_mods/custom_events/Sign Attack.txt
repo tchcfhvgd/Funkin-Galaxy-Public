@@ -1,0 +1,3 @@
+Plays the events whenever the sign gets hit yeah.
+
+Leave values blank and place the event whenever you want so it activates it.
