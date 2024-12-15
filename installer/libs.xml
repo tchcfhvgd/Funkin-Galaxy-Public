@@ -1,5 +1,5 @@
 <libs>
-    <lib name="lime"/>
+    <lib name="lime" version="8.2.1"/>
     <lib name="openfl" version="9.3.0"/>
 
     <!-- FLIXEL THINGS -->
