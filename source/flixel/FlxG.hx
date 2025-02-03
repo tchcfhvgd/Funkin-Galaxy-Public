@@ -1,6 +1,5 @@
 package flixel;
 
-import flixel.util.typeLimit.NextState;
 import flash.Lib;
 import flash.display.DisplayObject;
 import flash.display.Stage;
@@ -50,8 +49,8 @@ import flixel.input.FlxAccelerometer;
 import flixel.input.FlxSwipe;
 #end
 #if FLX_POST_PROCESS
-import openfl.display.OpenGLView;
 import flixel.util.FlxDestroyUtil;
+import openfl.display.OpenGLView;
 
 using flixel.util.FlxArrayUtil;
 #end
@@ -100,7 +99,7 @@ class FlxG
 	 * The HaxeFlixel version, in semantic versioning syntax. Use `Std.string()`
 	 * on it to get a `String` formatted like this: `"HaxeFlixel MAJOR.MINOR.PATCH-COMMIT_SHA"`.
 	 */
-	public static var VERSION(default, null):FlxVersion = new FlxVersion(4, 11, 0);
+	public static var VERSION(default, null):FlxVersion = new FlxVersion(5, 0, 0);
 
 	/**
 	 * Internal tracker for game object.
@@ -314,7 +313,6 @@ class FlxG
 
 	public static var initialWidth(default, null):Int = 0;
 	public static var initialHeight(default, null):Int = 0;
-	public static var initialZoom(default, null):Float = 0;
 
 	#if FLX_SOUND_SYSTEM
 	/**
@@ -367,42 +365,12 @@ class FlxG
 	/**
 	 * Attempts to switch from the current game state to `nextState`.
 	 * The state switch is successful if `switchTo()` of the current `state` returns `true`.
-	 * @param   nextState  A constructor for the initial state, ex: `PlayState.new` or `()->new PlayState()`.
-	 *                     Note: Before Flixel 5.6.0, this took a `FlxState` instance,
-	 *                     this is still available, for backwards compatibility.
 	 */
-	 public static inline function switchState(nextState:NextState):Void
+	public static inline function switchState(nextState:FlxState):Void
 	{
-		final stateOnCall = FlxG.state;
-		
-		if (!nextState.isInstance() || canSwitchTo(cast nextState))
-		{
-			state.startOutro(function()
-			{
-				if (FlxG.state == stateOnCall)
-					game._nextState = nextState;
-				else
-					FlxG.log.warn("`onOutroComplete` was called after the state was switched. This will be ignored");
-			});
-		}
+		if (state.switchTo(nextState))
+			game._requestedState = nextState;
 	}
-
-	/**
-	 * Calls state.switchTo(nextState) without a deprecation warning.
-	 * This will be removed in Flixel 6.0.0
-	 * @since 5.6.0
-	 */
-	 @:noCompletion
-	 @:haxe.warning("-WDeprecated")
-	 static function canSwitchTo(nextState:FlxState)
-	 {
-		 #if (haxe < version("4.3.0"))
-		 // Use reflection because @:haxe.warning("-WDeprecated") doesn't work until haxe 4.3
-		 return Reflect.callMethod(state, Reflect.field(state, 'switchTo'), [nextState]);
-		 #else
-		 return state.switchTo(nextState);
-		 #end
-	 }
 
 	/**
 	 * Request a reset of the current game state.
@@ -602,7 +570,7 @@ class FlxG
 	 * Called by `FlxGame` to set up `FlxG` during `FlxGame`'s constructor.
 	 */
 	@:allow(flixel.FlxGame.new)
-	static function init(Game:FlxGame, Width:Int, Height:Int, Zoom:Float):Void
+	static function init(Game:FlxGame, Width:Int, Height:Int):Void
 	{
 		game = Game;
 		width = Std.int(Math.abs(Width));
@@ -612,7 +580,6 @@ class FlxG
 
 		FlxG.initialWidth = width;
 		FlxG.initialHeight = height;
-		FlxG.initialZoom = FlxCamera.defaultZoom = Zoom;
 
 		resizeGame(Lib.current.stage.stageWidth, Lib.current.stage.stageHeight);
 
@@ -640,7 +607,8 @@ class FlxG
 		#if FLX_ACCELEROMETER
 		accelerometer = new FlxAccelerometer();
 		#end
-		save.bind("flixel");
+
+		initSave();
 
 		plugins = new PluginFrontEnd();
 		vcr = new VCRFrontEnd();
@@ -692,6 +660,20 @@ class FlxG
 		renderTile = renderMethod == DRAW_TILES;
 
 		FlxObject.defaultPixelPerfectPosition = renderBlit;
+	}
+
+	static function initSave()
+	{
+		// Don't init if the FlxG.save.bind was manually called before the FlxGame was created
+		if (save.isBound)
+			return;
+
+		// Use Project.xml data to determine save id (since 5.0.0).
+		final name = stage.application.meta["file"];
+		save.bind(FlxSave.validate(name));
+		// look for the pre 5.0 save and convert it if it exists.
+		if (save.isEmpty())
+			save.mergeDataFrom("flixel", null, false, false);
 	}
 
 	/**
