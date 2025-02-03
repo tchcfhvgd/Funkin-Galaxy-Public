@@ -129,8 +129,6 @@ class Main extends Sprite
 
 		addChild(game);
 
-		lime.utils.Log.throwErrors = false; // prevent shader crash erros jumpscare (i can see you FlxDrawQuadsItem)
-
 		fpsVar = new FPS(5, 3, 0xFFFFFF);
 		#if !mobile
 		addChild(fpsVar);
@@ -156,7 +154,7 @@ class Main extends Sprite
 		#end
 		#end
 
-		#if DISCORD_ALLOWED
+		#if desktop
 		DiscordClient.prepare();
 		#end
 
