@@ -121,7 +121,7 @@ class Main extends Sprite
 	{
 		hxvlc.util.Handle.init();
 		ClientPrefs.loadDefaultKeys();
-		var game = new FlxGame(game.width, game.height,  #if (mobile && MODS_ALLOWED) !CopyState.checkExistingFiles() ? CopyState : #end game.initialState, #if (flixel < "5.0.0") game.zoom, #end game.framerate, game.framerate,
+		var game = new FlxGame(game.width, game.height,  #if (mobile && MODS_ALLOWED) !CopyState.checkExistingFiles() ? CopyState : #end game.initialState, game.framerate, game.framerate,
 			game.skipSplash, game.startFullscreen);
 
 		@:privateAccess
